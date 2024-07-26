@@ -4,15 +4,17 @@ import {updateThumbPost, uploadPostToStrapi} from "./upLoadPost.js";
 
 
 const listPostSlug = [];
-[...Array(1)].forEach((_, index) => {
-  axios(`https://nlp168.com.vn/_next/data/WvLoJkJis4l92gilyqZw5/vi/tin-tuc/${index + 1}.json`)
+[...Array(15)].forEach((_, index) => {
+  if (index === 0) return;
+
+  axios(`https://nlp168.com.vn/_next/data/WvLoJkJis4l92gilyqZw5/vi/tin-tuc/${16 - index}.json`)
     .then(async (res) => {
       console.log("sucess:=====", res.data.pageProps.data.posts.nodes.length)
       listPostSlug.push(...res.data.pageProps.data.posts.nodes.map(item => item.slug));
 
       for (const slug of listPostSlug) {
-        const index1 = listPostSlug.indexOf(slug);
-        if (index1 > 0) continue;
+        // const index1 = listPostSlug.indexOf(slug);
+        // if (index1 > 0) continue;
         const data = await axios(`https://nlp168.com.vn/_next/data/WvLoJkJis4l92gilyqZw5/vi/post/${slug}.json?slug=${slug}`);
 
         let postDetail = data.data.pageProps.data.post;
