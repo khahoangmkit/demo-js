@@ -46,4 +46,21 @@ export async function updateThumbPost(idPost, url) {
         console.error('Error attaching file to collection:', error);
     }
 }
+
+export async function updateHeadPostById(idPost, content) {
+    try {
+        console.log('try update Content head....', idPost);
+
+        const response = await axios.put(`${UrlStrapi}/api/posts/${idPost}`, { data: {
+             headSeo: content,
+            }
+        },{
+            headers: {
+                Authorization: `Bearer ${token.TokenFullAccessLocal}`,
+            }
+        });
+    } catch (error) {
+        console.error('Error update Content head....:', idPost, error);
+    }
+}
 // await updateThumbPost(14, 'https://admin.nlp168.com.vn/wp-content/uploads/2024/04/Xe-nang-cu-Hyundai-Trung-Quoc-35DE-7-1024x768.jpg')

@@ -73,6 +73,8 @@ listProduct.forEach((product, index) => {
 
       const noiBat = [];
       for (const item of productDetail.noibat3) {
+
+        console.log(item.image.sourceUrl, '===============')
         const uploadedFiles = await uploadImageToStrapiFromUrl(item.image.sourceUrl);
         const imageId = uploadedFiles[0].id;
 
