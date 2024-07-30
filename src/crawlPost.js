@@ -78,7 +78,7 @@ function updateHeadContentAllPost() {
       const listPost = res.data.data;
       for (const post of listPost) {
         const index = listPost.indexOf(post);
-        if(index > 0) return;
+        // if(index > 0) return;
         const resSeo = await axios(`https://admin.nlp168.com.vn/wp-json/rankmath/v1/getHead?url=https://admin.nlp168.com.vn/post/${post.slug}`)
         console.log('resSeo=====', post, resSeo.data);
         await updateHeadPostById(post.id, resSeo.data.head);

@@ -59,6 +59,8 @@ export async function updateHeadPostById(idPost, content) {
                 Authorization: `Bearer ${token.TokenFullAccessLocal}`,
             }
         });
+
+        console.log(`Update Content head ${idPost} complete!`);
     } catch (error) {
         console.error('Error update Content head....:', idPost, error);
     }

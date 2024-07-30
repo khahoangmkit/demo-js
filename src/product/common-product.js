@@ -1,7 +1,8 @@
 import axios from "axios";
 import {UrlStrapi} from "../config/env.js";
 import {token} from "../config/token.js";
-
+import fs from 'fs';
+import {DataCategory} from "../data/constant.js";
 
 export async function createCategoryProduct(data) {
   try {
@@ -21,7 +22,7 @@ export async function createCategoryProduct(data) {
 }
 export async function createProduct(data) {
   try {
-    console.log('try uploadPostToStrapi')
+    console.log('try create Product')
 
     const res = await axios.post(`${UrlStrapi}/api/products`, {data: data}, {
       headers: {
@@ -36,3 +37,14 @@ export async function createProduct(data) {
   }
 }
 
+function demoWriteFile() {
+  let data = DataCategory;
+
+// Write data in 'Output.txt' .
+  fs.writeFile('./dataProduct/Output.json', JSON.stringify(data), (err) => {
+
+    // In case of a error throw err.
+    if (err) throw err;
+  })
+}
+demoWriteFile();
