@@ -2,56 +2,79 @@ import axios from "axios";
 import {getUrlStrapiFromImageUrl} from "./getUrlStrapiFromImageUrl.js";
 import {updateHeadPostById, updateThumbPost, uploadPostToStrapi} from "./upLoadPost.js";
 import {UrlStrapi} from "./config/env.js";
+import fs from "fs";
+import {listSlug} from './data/constant.js';
 
-
-function crawlAllPost() {
+async function getAllSlugPost() {
   const listPostSlug = [];
-  [...Array(15)].forEach((_, index) => {
-    if (index > 1 ) return;
+  let sum = 0;
+  for (let index = 1; index < 16; index++) {
+    try {
+      const res = await axios(`https://nlp168.com.vn/_next/data/WvLoJkJis4l92gilyqZw5/vi/tin-tuc/${index}.json`);
 
-    axios(`https://nlp168.com.vn/_next/data/WvLoJkJis4l92gilyqZw5/vi/tin-tuc/${16 - index}.json`)
-      .then(async (res) => {
-        console.log("sucess:=====", res.data.pageProps.data.posts.nodes.length)
-        listPostSlug.push(...res.data.pageProps.data.posts.nodes.map(item => item.slug));
 
-        for (const slug of listPostSlug) {
-          // const index1 = listPostSlug.indexOf(slug);
-          // if (index1 > 0) continue;
-          const data = await axios(`https://nlp168.com.vn/_next/data/WvLoJkJis4l92gilyqZw5/vi/post/${slug}.json?slug=${slug}`);
+      console.log("sucess:=====", res.data.pageProps.data.posts.nodes.length)
+      sum += res.data.pageProps.data.posts.nodes.length;
+      listPostSlug.push(...res.data.pageProps.data.posts.nodes.map(item => item.slug));
+      if (index === 15) {
+        console.log('sum====', sum)
+        fs.writeFile(`./data/listPosts.json`, JSON.stringify(listPostSlug), (err) => {
 
-          let postDetail = data.data.pageProps.data.post;
-          let content = postDetail.content;
-          console.log('processing Find All Image in content ....')
-          const listUrlImg = findAllImageInContent(content);
-          console.log(`append  ${listUrlImg.length} Image in content!`)
+          // In case of a error throw err.
+          if (err) throw err;
+        })
+      }
+    } catch (e) {
+      console.log('error fetch');
+    }
+  }
+}
 
-          const imageMapper = {};
-          for (const item of listUrlImg) {
-            imageMapper[item] = await getUrlStrapiFromImageUrl(item);
-          }
+async function crawlAllPost() {
 
-          for (const key in imageMapper) {
-            while (content.indexOf(key) !== -1) {
-              content = content.replace(key, imageMapper[key]);
-            }
-          }
+  console.log(listSlug.length, '====================')
+  for (const slug of listSlug) {
+    const index = listSlug.indexOf(slug);
+    if (index > 1) return;
+    try {
+      console.log('copy post by slug: ', slug);
+      const data = await axios(`https://nlp168.com.vn/_next/data/WvLoJkJis4l92gilyqZw5/vi/post/${slug}.json?slug=${slug}`);
 
-          const post = {
-            title: postDetail.title,
-            slug: postDetail.slug,
-            publicDate: postDetail.date.split('T')[0],
-            content: content,
-            description: postDetail.fieldPost.description,
-            locale: 'vi',
-          }
+      let postDetail = data.data.pageProps.data.post;
+      if (!postDetail) continue;
+      let content = postDetail.content;
+      console.log('processing Find All Image in content ....')
+      const listUrlImg = findAllImageInContent(content);
+      console.log(`append  ${listUrlImg.length} Image in content!`)
 
-          const newPost = await uploadPostToStrapi(post);
-          await updateThumbPost(newPost.data.id, postDetail.fieldPost.heroImage.sourceUrl)
+      const imageMapper = {};
+      for (const item of listUrlImg) {
+        imageMapper[item] = await getUrlStrapiFromImageUrl(item);
+      }
+
+      for (const key in imageMapper) {
+        while (content.indexOf(key) !== -1) {
+          content = content.replace(key, imageMapper[key]);
         }
-      })
-      .catch((err) => console.error("crawl data error:=====", err));
-  })
+      }
 
+      const post = {
+        title: postDetail.title,
+        slug: postDetail.slug,
+        publicDate: postDetail.date.split('T')[0],
+        content: content,
+        description: postDetail.fieldPost.description,
+        locale: 'vi',
+      }
+
+      const newPost = await uploadPostToStrapi(post);
+      await updateThumbPost(newPost.data.id, postDetail.fieldPost.heroImage.sourceUrl);
+
+      postDetail = null;
+    } catch (e) {
+      console.log('error fetch data from slug:=====', slug);
+    }
+  }
 }
 
 function findAllImageInContent(strContent) {
@@ -92,5 +115,5 @@ function updateHeadContentAllPost() {
 }
 
 
-// crawlAllPost();
-updateHeadContentAllPost();
+await crawlAllPost();
+// updateHeadContentAllPost();

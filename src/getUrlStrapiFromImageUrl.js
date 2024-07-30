@@ -61,7 +61,7 @@ export async function uploadImageToStrapiFromUrl(url) {
     });
 
     const res = await uploadFileToStrapi(formData);
-    console.log('response uploadImageToStrapiFromUrl: ', res);
+    console.log('response uploadImageToStrapiFromUrl success ');
     return res;
   } catch (err) {
     console.log('Error uploadImageToStrapiFromUrl: ', err);
