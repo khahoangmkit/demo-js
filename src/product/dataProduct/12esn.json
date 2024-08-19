@@ -1,1 +1,56 @@
-{"name":"12ESN","slug":"12esn","slugId":"12esn","typeProduct":"xe-loai-khac-2-hyundai-trung-quoc","description":"<p>Capacity: Up to 1200kg</p>\n<p>Lift height: Up to 1950mm</p>\n","thumb":3798,"locale":"vi","taiTrong":1200,"tamTai":500,"chieuCaoNang":1950,"dongCo":null,"congSuat":null,"chieuDaiCang":null,"hopSo":null,"lopXe":null,"phanhXe":null,"noiBat":[{"image":2819,"desc":"Hệ thống điều khiển và phanh tiên tiến. Hiển thị đa chức năng với BDI và đồng hồ đo giờ,...","title":"An toàn và năng suất"},{"image":2968,"desc":"Xe nâng pallet 12ESN mang lại sự ổn định tuyệt vời cho người vận hành và cho phép tăng tốc độ khi rẽ","title":"Thiết kế ổn định"},{"image":3130,"desc":"Công nghệ CANbus giảm độ phức tạp của hệ thống dây diện và tăng độ tin cậy. ","title":"Khả năng bảo trì"}],"noiBatOther":{"title":"Tính năng nổi bật khác","description":"<p>Xe nâng pallet điện 12ESN là dòng xe nâng có độ chính xác cao. Nó là thiết bị lý tưởng cho công việc nhẹ trên khoảng cách ngắn và không thường xuyên xếp chồng các kiện hàng:</p>\n<ul>\n<li>Nút dừng khẩn cấp</li>\n<li>Kiểm soát tốc độ hành trình theo tỷ lệ</li>\n<li>Động cơ truyền động dọc có bán kính quay nhỏ.</li>\n</ul>\n","image":3294},"anToan":{"title":null,"desc":null,"listFeature":[]},"otherBlock":null,"videos":[],"hinhAnh":{"title":"Hình Ảnh","desc":null,"images":[3433,3569,3688]}}
+{
+  "name": "12ESN",
+  "slug": "12esn",
+  "slugId": "12esn",
+  "typeProduct": "xe-loai-khac-2-hyundai-trung-quoc",
+  "description": "<p>Capacity: Up to 1200kg</p>\n<p>Lift height: Up to 1950mm</p>\n",
+  "thumb": 3798,
+  "locale": "vi",
+  "taiTrong": 1200,
+  "tamTai": 500,
+  "chieuCaoNang": 1950,
+  "dongCo": null,
+  "congSuat": null,
+  "chieuDaiCang": null,
+  "hopSo": null,
+  "lopXe": null,
+  "phanhXe": null,
+  "noiBat": [
+    {
+      "image": 2819,
+      "desc": "Hệ thống điều khiển và phanh tiên tiến. Hiển thị đa chức năng với BDI và đồng hồ đo giờ,...",
+      "title": "An toàn và năng suất"
+    },
+    {
+      "image": 2968,
+      "desc": "Xe nâng pallet 12ESN mang lại sự ổn định tuyệt vời cho người vận hành và cho phép tăng tốc độ khi rẽ",
+      "title": "Thiết kế ổn định"
+    },
+    {
+      "image": 3130,
+      "desc": "Công nghệ CANbus giảm độ phức tạp của hệ thống dây diện và tăng độ tin cậy. ",
+      "title": "Khả năng bảo trì"
+    }
+  ],
+  "noiBatOther": {
+    "title": "Tính năng nổi bật khác",
+    "description": "<p>Xe nâng pallet điện 12ESN là dòng xe nâng có độ chính xác cao. Nó là thiết bị lý tưởng cho công việc nhẹ trên khoảng cách ngắn và không thường xuyên xếp chồng các kiện hàng:</p>\n<ul>\n<li>Nút dừng khẩn cấp</li>\n<li>Kiểm soát tốc độ hành trình theo tỷ lệ</li>\n<li>Động cơ truyền động dọc có bán kính quay nhỏ.</li>\n</ul>\n",
+    "image": 3294
+  },
+  "anToan": {
+    "title": null,
+    "desc": null,
+    "listFeature": []
+  },
+  "otherBlock": null,
+  "videos": [],
+  "hinhAnh": {
+    "title": "Hình Ảnh",
+    "desc": null,
+    "images": [
+      3433,
+      3569,
+      3688
+    ]
+  }
+}

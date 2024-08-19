@@ -1,1 +1,96 @@
-{"name":"ESR 5200","slug":"esr-5700","slugId":"esr-5700","typeProduct":"reach-trucks","description":"<p>Capacity: Up to 2000kg</p>\n<p>Lift height: Up to 13000mm</p>\n","thumb":4593,"locale":"vi","taiTrong":2000,"tamTai":600,"chieuCaoNang":13000,"dongCo":null,"congSuat":null,"chieuDaiCang":null,"hopSo":null,"lopXe":null,"phanhXe":"Điện","noiBat":[{"image":2876,"desc":"Hệ điều hành Gena dễ dàng xem, hiểu và sử dụng dữ liệu quan trọng về hiệu suất, với màn hình màu cảm ứng 7 inch, được lập trình bằng 25 ngôn ngữ khác nhau. cung cấp đầy đủ thông tin và chuẩn đoán lỗi nâng cao. ","title":"Hệ điều hành Gena"},{"image":3086,"desc":"Xe nâng Reach Truck ESR bao gồm khả năng kết nối không dây thích hợp cấp quyền truy cập vào dữ liệu vận hành theo thời gian thực.","title":"Được kết nối thông minh"},{"image":3247,"desc":"Tất cả các model thuộc dòng ESR đều có khả năng điều chỉnh chiều cao/ trọng lượng, đọ nghiêng, ví trị ghế tiến lùi. Khả năng điều chỉnh chiều cao và chiều ngang của tựa tay D4 và màn hình hiển thị đem lại sự thoải mái và thuận tiện cho người vận hành. ","title":"Khả năng điều chỉnh xung quanh"}],"noiBatOther":{"title":"Tính năng nổi bật khác","description":"<p>Xe nâng Reach Truck dòng ESR cá nhân hóa sự an toàn hơn cho người vận hành với lời nhắc trên xe nâng, tính năng hỗ trợ tự động và dynamic coaching cung cấp hướng dẫn theo ngữ cảnh để giúp nâng cao nhận thức của người vận hành.</p>\n<p>Hệ thống Kiểm soát tốc độ khi vào khúc cua của dòng Crown được tích hợp sẵn, tự động điều chỉnh tốc độ và tăng tốc đạt hiệu suất và sự an toàn tối đa.</p>\n<p>Tiết kiệm năng lượng và thời gian hoạt động đáng kể nhờ hệ thống phanh eGen đi kèm với tính năng Xpress Lower.</p>\n","image":3419},"anToan":{"title":"Tính năng an toàn xe","desc":null,"listFeature":[{"title":"Tầm nhìn tối ưu","desc":"Trục nâng bù trừ của xe nâng tầm cao Dòng ESR giúp người vận hành quan sát tốt hơn bánh xe chịu tải, càng nâng và pallet. Kính toàn cảnh (tùy chọn) của ESR 1000 giúp tăng tối đa tầm nhìn và cung cấp tấm chắn mảnh vụn vượt trội.\r\n\r\n","image":3559},{"title":"Điều khiển màn hình và phụ kiện","desc":"Được tích hợp vào tựa tay, núm điều hướng màn hình (tùy chọn) của xe nâng ESR cung cấp giải pháp thay thế thuận tiện cho màn hình cảm ứng. ","image":3722},{"title":"Tựa tay D4 với lựa chọn bộ điều khiển thủy lực","desc":"Tựa tay có thể điều chỉnh, thiết kế độc đáo và khả năng thích ứng. Lựa chọn cơ cấu điều khiển bằng đầu ngón tay, cần điều khiển trục kép hoặc đa nhiệm cho phép tùy chỉnh theo nhu cầu ứng dụng và sở thích của người vận hành. ","image":3860},{"title":"Bình điện Lithium-ion (Tùy chọn)","desc":"Với tùy chọn bình điện Lithium đem lại hiệu suất cao, khả năng sạc nhanh và không cần bảo trì hằng ngày. ","image":3961},{"title":"Cổng sạc USB (tùy chọn)","desc":"Xe nâng Reach Truck dòng ESR chạy hệ điều hành Gena có thể trang bị cổng sạc USB phù hợp để sạc điện thoại, máy tính và các thiết bị di động khác. ","image":4060},{"title":"Màn hình điều khiển","desc":"Màn hình điều khiển đa nhiệm, cung cấp các thông tin đa dạng cho người vận hành. ","image":4186},{"title":"Camera màu sắc nét","desc":"Hệ thống camera càng nâng sắc nét, được gắn vào trụ hoặc càng nâng giúp cải thiện tầm nhìn và khả năng quan sát, đảm bảo an toàn cho người vận hành khi lấy hàng. ","image":4281},{"title":"Buồng lái khi lạnh (Option)","desc":"Lựa chọn buông lái kho lạnh kín và rộng rãi, cung cấp môi trường làm việc thoải mái, ấm áp. Buồng lái cũng tăng tầm nhìn, cải thiện năng suất và sức chịu đựng của người vận hành. ","image":4364}]},"otherBlock":null,"videos":[],"hinhAnh":{"title":"Hình Ảnh","desc":null,"images":[4444,4552]}}
+{
+  "name": "ESR 5200",
+  "slug": "esr-5700",
+  "slugId": "esr-5700",
+  "typeProduct": "reach-trucks",
+  "description": "<p>Capacity: Up to 2000kg</p>\n<p>Lift height: Up to 13000mm</p>\n",
+  "thumb": 4593,
+  "locale": "vi",
+  "taiTrong": 2000,
+  "tamTai": 600,
+  "chieuCaoNang": 13000,
+  "dongCo": null,
+  "congSuat": null,
+  "chieuDaiCang": null,
+  "hopSo": null,
+  "lopXe": null,
+  "phanhXe": "Điện",
+  "noiBat": [
+    {
+      "image": 2876,
+      "desc": "Hệ điều hành Gena dễ dàng xem, hiểu và sử dụng dữ liệu quan trọng về hiệu suất, với màn hình màu cảm ứng 7 inch, được lập trình bằng 25 ngôn ngữ khác nhau. cung cấp đầy đủ thông tin và chuẩn đoán lỗi nâng cao. ",
+      "title": "Hệ điều hành Gena"
+    },
+    {
+      "image": 3086,
+      "desc": "Xe nâng Reach Truck ESR bao gồm khả năng kết nối không dây thích hợp cấp quyền truy cập vào dữ liệu vận hành theo thời gian thực.",
+      "title": "Được kết nối thông minh"
+    },
+    {
+      "image": 3247,
+      "desc": "Tất cả các model thuộc dòng ESR đều có khả năng điều chỉnh chiều cao/ trọng lượng, đọ nghiêng, ví trị ghế tiến lùi. Khả năng điều chỉnh chiều cao và chiều ngang của tựa tay D4 và màn hình hiển thị đem lại sự thoải mái và thuận tiện cho người vận hành. ",
+      "title": "Khả năng điều chỉnh xung quanh"
+    }
+  ],
+  "noiBatOther": {
+    "title": "Tính năng nổi bật khác",
+    "description": "<p>Xe nâng Reach Truck dòng ESR cá nhân hóa sự an toàn hơn cho người vận hành với lời nhắc trên xe nâng, tính năng hỗ trợ tự động và dynamic coaching cung cấp hướng dẫn theo ngữ cảnh để giúp nâng cao nhận thức của người vận hành.</p>\n<p>Hệ thống Kiểm soát tốc độ khi vào khúc cua của dòng Crown được tích hợp sẵn, tự động điều chỉnh tốc độ và tăng tốc đạt hiệu suất và sự an toàn tối đa.</p>\n<p>Tiết kiệm năng lượng và thời gian hoạt động đáng kể nhờ hệ thống phanh eGen đi kèm với tính năng Xpress Lower.</p>\n",
+    "image": 3419
+  },
+  "anToan": {
+    "title": "Tính năng an toàn xe",
+    "desc": null,
+    "listFeature": [
+      {
+        "title": "Tầm nhìn tối ưu",
+        "desc": "Trục nâng bù trừ của xe nâng tầm cao Dòng ESR giúp người vận hành quan sát tốt hơn bánh xe chịu tải, càng nâng và pallet. Kính toàn cảnh (tùy chọn) của ESR 1000 giúp tăng tối đa tầm nhìn và cung cấp tấm chắn mảnh vụn vượt trội.\r\n\r\n",
+        "image": 3559
+      },
+      {
+        "title": "Điều khiển màn hình và phụ kiện",
+        "desc": "Được tích hợp vào tựa tay, núm điều hướng màn hình (tùy chọn) của xe nâng ESR cung cấp giải pháp thay thế thuận tiện cho màn hình cảm ứng. ",
+        "image": 3722
+      },
+      {
+        "title": "Tựa tay D4 với lựa chọn bộ điều khiển thủy lực",
+        "desc": "Tựa tay có thể điều chỉnh, thiết kế độc đáo và khả năng thích ứng. Lựa chọn cơ cấu điều khiển bằng đầu ngón tay, cần điều khiển trục kép hoặc đa nhiệm cho phép tùy chỉnh theo nhu cầu ứng dụng và sở thích của người vận hành. ",
+        "image": 3860
+      },
+      {
+        "title": "Bình điện Lithium-ion (Tùy chọn)",
+        "desc": "Với tùy chọn bình điện Lithium đem lại hiệu suất cao, khả năng sạc nhanh và không cần bảo trì hằng ngày. ",
+        "image": 3961
+      },
+      {
+        "title": "Cổng sạc USB (tùy chọn)",
+        "desc": "Xe nâng Reach Truck dòng ESR chạy hệ điều hành Gena có thể trang bị cổng sạc USB phù hợp để sạc điện thoại, máy tính và các thiết bị di động khác. ",
+        "image": 4060
+      },
+      {
+        "title": "Màn hình điều khiển",
+        "desc": "Màn hình điều khiển đa nhiệm, cung cấp các thông tin đa dạng cho người vận hành. ",
+        "image": 4186
+      },
+      {
+        "title": "Camera màu sắc nét",
+        "desc": "Hệ thống camera càng nâng sắc nét, được gắn vào trụ hoặc càng nâng giúp cải thiện tầm nhìn và khả năng quan sát, đảm bảo an toàn cho người vận hành khi lấy hàng. ",
+        "image": 4281
+      },
+      {
+        "title": "Buồng lái khi lạnh (Option)",
+        "desc": "Lựa chọn buông lái kho lạnh kín và rộng rãi, cung cấp môi trường làm việc thoải mái, ấm áp. Buồng lái cũng tăng tầm nhìn, cải thiện năng suất và sức chịu đựng của người vận hành. ",
+        "image": 4364
+      }
+    ]
+  },
+  "otherBlock": null,
+  "videos": [],
+  "hinhAnh": {
+    "title": "Hình Ảnh",
+    "desc": null,
+    "images": [
+      4444,
+      4552
+    ]
+  }
+}

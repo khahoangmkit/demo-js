@@ -1,1 +1,94 @@
-{"name":"30BE-X","slug":"30be-x","slugId":"30be-x","typeProduct":"xe-nang-dien-xe-hyundai-trung-quoc","description":"<p>Capacity: Up to 3000kg</p>\n<p>Lift height: Up to 3000mm</p>\n","thumb":4602,"locale":"vi","taiTrong":3000,"tamTai":500,"chieuCaoNang":3000,"dongCo":null,"congSuat":null,"chieuDaiCang":null,"hopSo":null,"lopXe":null,"phanhXe":"Tang trống","noiBat":[{"image":2782,"desc":"Hệ thống truyền động đơn không tiếp xúc với các động cơ kéo, động cơ IP54 và ắc quy 48V (30/35BE-X), các khu vực dịch vụ của xe nâng được mở rộng ra môi trường ngoài trời. Ngoài ra, tiếng ồn khi lái xe giảm 6.5dB so với B-9F nhờ ứng dụng trục có độ ồn thấp.","title":"Trục truyền động đơn và động cơ IP54"},{"image":2948,"desc":"Lựa chọn ắc quy Lithium-ion LiFePo4 với đặc tính sạc nhanh trong 2 giờ, đồng thời có thể vận hành 2ca/ngày mà không cần thay pin. Ngoài ra, do hiệu suất chuyển đổi năng lượng cao và không cần bảo dưỡng mang lại hiệu quả kinh tế cao so với ắc quy truyền thống. ","title":"Ắc quy Lithium-ion (Tùy chọn)"},{"image":3103,"desc":"Người lái có thể kiểm tra tình trạng vận hành theo thời gian thực của xe nâng trên cụm đồng hồ kỹ thuật số đa chức năng được thiết kế đảm bảo khả năng hiển thị trong quá trình vận hành. ","title":"Màn hình đa nhiệm"}],"noiBatOther":{"title":"Ưu điểm nổi bật khác","description":"<p>Với thiết kế tối ưu, dòng xe nâng điện Hyundai BE-X được thiết kế tập trung giảm chi phí TCO cho người vận hành. Đem lại năng suất làm việc tuyệt vời và thuận tiện cho người điều khiển:</p>\n<ul>\n<li>Hiệu suất năng lượng cải thiện 8.2% so với dòng 9F nhờ ứng dụng cụm truyền động và động cơ ít tiêu hao năng lượng</li>\n<li>Hộp điều khiển ZAPI của Ý tiên tiến đem lại độ tin cậy với khả năng chống nước và bụi bẩn IP65.</li>\n<li>Thiết kế cần điều khiển cố định trên mui xe, yêu cầu ít lực hơn từ người điều khiển</li>\n<li>Tùy chọn dễ dàng hệ thống ghế treo có đệm điều chỉnh</li>\n<li>Thiết kế rộng rãi khu vực đệm lên xuống</li>\n<li>Vô lăng điều khiển có thể nghiêng ngả đến 12.5 độ, phù hợp cơ thể người vận hành.</li>\n</ul>\n","image":3260},"anToan":{"title":"Tối đa sự an toàn cho người lái","desc":"Dòng xe BE-X mới với những cải tiến, tối ưu nhằm thay đổi lại thị trường xe nâng điện.","listFeature":[{"title":"Đèn LED cảnh báo an toàn","desc":"Hệ thống đèn LED chiếu sáng và đèn cảnh báo an toàn cho người vận hành trang bị đầy đủ. ","image":3389},{"title":"Tùy chọn camera trước và sau","desc":"Tùy chọn camera trước và sau không dây cung cấp cho màn hình thông tin. ","image":3557},{"title":"Giới hạn tốc độ","desc":"Tốc độ di chuyển tối đa của thiết bị có thể được cài đặt để đáp ứng tốc độ an toàn thông qua màn hình đa chức năng, ngăn ngừa tai nạn khi chạy quá tốc độ, Khả năng vượt dốc và hiệu suất làm việc vẫn duy trì ở mức cao nhất ngay cả khi tốc độ di chuyển được cài đặt giới hạn. ","image":3647},{"title":"Anti Roll back","desc":"Hệ thống Anti Roll Back ngăn không cho xe nâng lăn nhanh xuống dốc khi không sử dụng bàn đạp ga và bàn đạp phanh đồng thời cải thiện khả năng khởi động ngang dốc. ","image":3769}]},"otherBlock":{"image":3892,"desc":null,"title":"Bảo trì - bảo dưỡng thuận tiện","content":"<ul>\n<li>Thiết kế thuận tiện giúp quá trình sạc, tháo lắp và thay thế pin dễ dàng, không mất nhiều thời gian.</li>\n<li>Công tắc vi mô kín MCV được áp dụng, đảm bảo độ tin cậy của hệ thống điều khiển thủy lực, chống lại sự xâm nhập của nước và bụi ngoài trời.</li>\n</ul>\n"},"videos":[{"title":"Xe nâng điện Hyundai Trung Quốc","desc":"Thiết kế hiện đại, với nhiều ưu điểm vượt trội, độ tin cậy tối đa là ưu tiên hàng đầu của các dòng xe nâng trong dòng sản phẩm Nhất Lộ Phát 168.","linkYoutube":"https://www.youtube.com/embed/nognRJ1fm8o?si=0MuQqSTttKf6kjXO","thumbnail":{"sourceUrl":"https://admin.nlp168.com.vn/wp-content/uploads/2023/08/Xe-nang-2.5-tan-Hyundai-moi-25BE-X-1.jpg"},"thumb":4074}],"hinhAnh":{"title":"Hình Ảnh","desc":null,"images":[4182,4263,4380,4492,4560]}}
+{
+  "name": "30BE-X",
+  "slug": "30be-x",
+  "slugId": "30be-x",
+  "typeProduct": "xe-nang-dien-xe-hyundai-trung-quoc",
+  "description": "<p>Capacity: Up to 3000kg</p>\n<p>Lift height: Up to 3000mm</p>\n",
+  "thumb": 4602,
+  "locale": "vi",
+  "taiTrong": 3000,
+  "tamTai": 500,
+  "chieuCaoNang": 3000,
+  "dongCo": null,
+  "congSuat": null,
+  "chieuDaiCang": null,
+  "hopSo": null,
+  "lopXe": null,
+  "phanhXe": "Tang trống",
+  "noiBat": [
+    {
+      "image": 2782,
+      "desc": "Hệ thống truyền động đơn không tiếp xúc với các động cơ kéo, động cơ IP54 và ắc quy 48V (30/35BE-X), các khu vực dịch vụ của xe nâng được mở rộng ra môi trường ngoài trời. Ngoài ra, tiếng ồn khi lái xe giảm 6.5dB so với B-9F nhờ ứng dụng trục có độ ồn thấp.",
+      "title": "Trục truyền động đơn và động cơ IP54"
+    },
+    {
+      "image": 2948,
+      "desc": "Lựa chọn ắc quy Lithium-ion LiFePo4 với đặc tính sạc nhanh trong 2 giờ, đồng thời có thể vận hành 2ca/ngày mà không cần thay pin. Ngoài ra, do hiệu suất chuyển đổi năng lượng cao và không cần bảo dưỡng mang lại hiệu quả kinh tế cao so với ắc quy truyền thống. ",
+      "title": "Ắc quy Lithium-ion (Tùy chọn)"
+    },
+    {
+      "image": 3103,
+      "desc": "Người lái có thể kiểm tra tình trạng vận hành theo thời gian thực của xe nâng trên cụm đồng hồ kỹ thuật số đa chức năng được thiết kế đảm bảo khả năng hiển thị trong quá trình vận hành. ",
+      "title": "Màn hình đa nhiệm"
+    }
+  ],
+  "noiBatOther": {
+    "title": "Ưu điểm nổi bật khác",
+    "description": "<p>Với thiết kế tối ưu, dòng xe nâng điện Hyundai BE-X được thiết kế tập trung giảm chi phí TCO cho người vận hành. Đem lại năng suất làm việc tuyệt vời và thuận tiện cho người điều khiển:</p>\n<ul>\n<li>Hiệu suất năng lượng cải thiện 8.2% so với dòng 9F nhờ ứng dụng cụm truyền động và động cơ ít tiêu hao năng lượng</li>\n<li>Hộp điều khiển ZAPI của Ý tiên tiến đem lại độ tin cậy với khả năng chống nước và bụi bẩn IP65.</li>\n<li>Thiết kế cần điều khiển cố định trên mui xe, yêu cầu ít lực hơn từ người điều khiển</li>\n<li>Tùy chọn dễ dàng hệ thống ghế treo có đệm điều chỉnh</li>\n<li>Thiết kế rộng rãi khu vực đệm lên xuống</li>\n<li>Vô lăng điều khiển có thể nghiêng ngả đến 12.5 độ, phù hợp cơ thể người vận hành.</li>\n</ul>\n",
+    "image": 3260
+  },
+  "anToan": {
+    "title": "Tối đa sự an toàn cho người lái",
+    "desc": "Dòng xe BE-X mới với những cải tiến, tối ưu nhằm thay đổi lại thị trường xe nâng điện.",
+    "listFeature": [
+      {
+        "title": "Đèn LED cảnh báo an toàn",
+        "desc": "Hệ thống đèn LED chiếu sáng và đèn cảnh báo an toàn cho người vận hành trang bị đầy đủ. ",
+        "image": 3389
+      },
+      {
+        "title": "Tùy chọn camera trước và sau",
+        "desc": "Tùy chọn camera trước và sau không dây cung cấp cho màn hình thông tin. ",
+        "image": 3557
+      },
+      {
+        "title": "Giới hạn tốc độ",
+        "desc": "Tốc độ di chuyển tối đa của thiết bị có thể được cài đặt để đáp ứng tốc độ an toàn thông qua màn hình đa chức năng, ngăn ngừa tai nạn khi chạy quá tốc độ, Khả năng vượt dốc và hiệu suất làm việc vẫn duy trì ở mức cao nhất ngay cả khi tốc độ di chuyển được cài đặt giới hạn. ",
+        "image": 3647
+      },
+      {
+        "title": "Anti Roll back",
+        "desc": "Hệ thống Anti Roll Back ngăn không cho xe nâng lăn nhanh xuống dốc khi không sử dụng bàn đạp ga và bàn đạp phanh đồng thời cải thiện khả năng khởi động ngang dốc. ",
+        "image": 3769
+      }
+    ]
+  },
+  "otherBlock": {
+    "image": 3892,
+    "desc": null,
+    "title": "Bảo trì - bảo dưỡng thuận tiện",
+    "content": "<ul>\n<li>Thiết kế thuận tiện giúp quá trình sạc, tháo lắp và thay thế pin dễ dàng, không mất nhiều thời gian.</li>\n<li>Công tắc vi mô kín MCV được áp dụng, đảm bảo độ tin cậy của hệ thống điều khiển thủy lực, chống lại sự xâm nhập của nước và bụi ngoài trời.</li>\n</ul>\n"
+  },
+  "videos": [
+    {
+      "title": "Xe nâng điện Hyundai Trung Quốc",
+      "desc": "Thiết kế hiện đại, với nhiều ưu điểm vượt trội, độ tin cậy tối đa là ưu tiên hàng đầu của các dòng xe nâng trong dòng sản phẩm Nhất Lộ Phát 168.",
+      "linkYoutube": "https://www.youtube.com/embed/nognRJ1fm8o?si=0MuQqSTttKf6kjXO",
+      "thumbnail": {
+        "sourceUrl": "https://admin.nlp168.com.vn/wp-content/uploads/2023/08/Xe-nang-2.5-tan-Hyundai-moi-25BE-X-1.jpg"
+      },
+      "thumb": 4074
+    }
+  ],
+  "hinhAnh": {
+    "title": "Hình Ảnh",
+    "desc": null,
+    "images": [
+      4182,
+      4263,
+      4380,
+      4492,
+      4560
+    ]
+  }
+}

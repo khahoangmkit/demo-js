@@ -1,1 +1,47 @@
-{"name":"SDF30","slug":"sdf30","slugId":"sdf30","typeProduct":"xe-nang-dau-soosung","description":"<p>Capacity: Up to 3000kg</p>\n<p>Lift height: Up to 3000mm</p>\n","thumb":3222,"locale":"vi","taiTrong":3000,"tamTai":500,"chieuCaoNang":3000,"dongCo":"YANMAR","congSuat":42.1,"chieuDaiCang":"1070","hopSo":"Tự động","lopXe":"Đặc","phanhXe":"Thủy lực","noiBat":[{"image":2785,"desc":null,"title":"Động cơ mạnh mẽ"},{"image":2946,"desc":null,"title":"Bảo vệ trên cao vững chắc"},{"image":3105,"desc":null,"title":"Tầm nhìn rộng"}],"anToan":{"title":null,"desc":null,"listFeature":[]},"otherBlock":null,"videos":[],"hinhAnh":{"title":"Hình Ảnh","desc":null,"images":[]}}
+{
+  "name": "SDF30",
+  "slug": "sdf30",
+  "slugId": "sdf30",
+  "typeProduct": "xe-nang-dau-soosung",
+  "description": "<p>Capacity: Up to 3000kg</p>\n<p>Lift height: Up to 3000mm</p>\n",
+  "thumb": 3222,
+  "locale": "vi",
+  "taiTrong": 3000,
+  "tamTai": 500,
+  "chieuCaoNang": 3000,
+  "dongCo": "YANMAR",
+  "congSuat": 42.1,
+  "chieuDaiCang": "1070",
+  "hopSo": "Tự động",
+  "lopXe": "Đặc",
+  "phanhXe": "Thủy lực",
+  "noiBat": [
+    {
+      "image": 2785,
+      "desc": null,
+      "title": "Động cơ mạnh mẽ"
+    },
+    {
+      "image": 2946,
+      "desc": null,
+      "title": "Bảo vệ trên cao vững chắc"
+    },
+    {
+      "image": 3105,
+      "desc": null,
+      "title": "Tầm nhìn rộng"
+    }
+  ],
+  "anToan": {
+    "title": null,
+    "desc": null,
+    "listFeature": []
+  },
+  "otherBlock": null,
+  "videos": [],
+  "hinhAnh": {
+    "title": "Hình Ảnh",
+    "desc": null,
+    "images": []
+  }
+}

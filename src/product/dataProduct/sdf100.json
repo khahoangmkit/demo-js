@@ -1,1 +1,47 @@
-{"name":"SDF100","slug":"sdf100","slugId":"sdf100","typeProduct":"xe-nang-dau-soosung","description":"<p>Capacity: Up to 10000kg</p>\n<p>Lift height: Up to 3000mm</p>\n","thumb":3177,"locale":"vi","taiTrong":10000,"tamTai":6000,"chieuCaoNang":3000,"dongCo":"ISUZU","congSuat":82.3,"chieuDaiCang":"1520","hopSo":"Tự động","lopXe":"Đặc","phanhXe":"Thủy lực","noiBat":[{"image":2762,"desc":"Động cơ Soosung mạnh mẽ, phù hợp nâng tải các hàng hóa khối lượng lớn. ","title":"Động cơ mạnh mẽ"},{"image":2933,"desc":"Hệ thống bảo vệ trên cao giúp bảo vệ người vận hành khỏi việc rơi đổ hàng. ","title":"Mái bảo vệ trên cao vững chắc"},{"image":3095,"desc":"Thiết kế đem lại tìm nhìn rộng rãi cho người lái, ghế ngồi công thái học theo người vận hành. ","title":"Tần nhìn rộng, thoải mái"}],"anToan":{"title":null,"desc":null,"listFeature":[]},"otherBlock":null,"videos":[],"hinhAnh":{"title":"Hình Ảnh","desc":null,"images":[]}}
+{
+  "name": "SDF100",
+  "slug": "sdf100",
+  "slugId": "sdf100",
+  "typeProduct": "xe-nang-dau-soosung",
+  "description": "<p>Capacity: Up to 10000kg</p>\n<p>Lift height: Up to 3000mm</p>\n",
+  "thumb": 3177,
+  "locale": "vi",
+  "taiTrong": 10000,
+  "tamTai": 6000,
+  "chieuCaoNang": 3000,
+  "dongCo": "ISUZU",
+  "congSuat": 82.3,
+  "chieuDaiCang": "1520",
+  "hopSo": "Tự động",
+  "lopXe": "Đặc",
+  "phanhXe": "Thủy lực",
+  "noiBat": [
+    {
+      "image": 2762,
+      "desc": "Động cơ Soosung mạnh mẽ, phù hợp nâng tải các hàng hóa khối lượng lớn. ",
+      "title": "Động cơ mạnh mẽ"
+    },
+    {
+      "image": 2933,
+      "desc": "Hệ thống bảo vệ trên cao giúp bảo vệ người vận hành khỏi việc rơi đổ hàng. ",
+      "title": "Mái bảo vệ trên cao vững chắc"
+    },
+    {
+      "image": 3095,
+      "desc": "Thiết kế đem lại tìm nhìn rộng rãi cho người lái, ghế ngồi công thái học theo người vận hành. ",
+      "title": "Tần nhìn rộng, thoải mái"
+    }
+  ],
+  "anToan": {
+    "title": null,
+    "desc": null,
+    "listFeature": []
+  },
+  "otherBlock": null,
+  "videos": [],
+  "hinhAnh": {
+    "title": "Hình Ảnh",
+    "desc": null,
+    "images": []
+  }
+}

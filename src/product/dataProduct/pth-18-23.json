@@ -1,1 +1,31 @@
-{"name":"PTH 18-32","slug":"pth-18-23","slugId":"pth-18-23","typeProduct":"xe-nang-pallet","description":"<p>Capacity: Up to 2300kg</p>\n<p>Lift height: Up to 200mm</p>\n","thumb":2797,"locale":"vi","taiTrong":2300,"tamTai":null,"chieuCaoNang":200,"dongCo":null,"congSuat":null,"chieuDaiCang":null,"hopSo":null,"lopXe":null,"phanhXe":null,"noiBat":[],"anToan":{"title":null,"desc":null,"listFeature":[]},"otherBlock":null,"videos":[],"hinhAnh":{"title":"Hình Ảnh","desc":null,"images":[]}}
+{
+  "name": "PTH 18-32",
+  "slug": "pth-18-23",
+  "slugId": "pth-18-23",
+  "typeProduct": "xe-nang-pallet",
+  "description": "<p>Capacity: Up to 2300kg</p>\n<p>Lift height: Up to 200mm</p>\n",
+  "thumb": 2797,
+  "locale": "vi",
+  "taiTrong": 2300,
+  "tamTai": null,
+  "chieuCaoNang": 200,
+  "dongCo": null,
+  "congSuat": null,
+  "chieuDaiCang": null,
+  "hopSo": null,
+  "lopXe": null,
+  "phanhXe": null,
+  "noiBat": [],
+  "anToan": {
+    "title": null,
+    "desc": null,
+    "listFeature": []
+  },
+  "otherBlock": null,
+  "videos": [],
+  "hinhAnh": {
+    "title": "Hình Ảnh",
+    "desc": null,
+    "images": []
+  }
+}

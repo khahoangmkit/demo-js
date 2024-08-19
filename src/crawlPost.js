@@ -33,6 +33,7 @@ async function getAllSlugPost() {
 async function crawlAllPost() {
 
   console.log(listSlug.length, '====================')
+  const listSlugError = [];
   for (const slug of listSlug) {
     const index = listSlug.indexOf(slug);
     try {
@@ -72,8 +73,14 @@ async function crawlAllPost() {
       postDetail = null;
     } catch (e) {
       console.log('error fetch data from slug:=====', slug);
+      listSlugError.push(slug);
     }
   }
+  fs.writeFile(`./data/listSlugPostError.json`, JSON.stringify(listSlugError), (err) => {
+
+    // In case of a error throw err.
+    if (err) throw err;
+  })
 }
 
 function findAllImageInContent(strContent) {

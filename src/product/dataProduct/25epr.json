@@ -1,1 +1,68 @@
-{"name":"25EPR","slug":"25epr","slugId":"25epr","typeProduct":"xe-loai-khac-2-hyundai-trung-quoc","description":"<p>Capacity: Up to 2500kg</p>\n<p>Lift height: Up to 210 mm</p>\n","thumb":4102,"locale":"vi","taiTrong":2500,"tamTai":600,"chieuCaoNang":120,"dongCo":null,"congSuat":null,"chieuDaiCang":null,"hopSo":null,"lopXe":null,"phanhXe":null,"noiBat":[{"image":2817,"desc":"Hệ thống điều khiển xoay chiều AC tiên tiến, yêu cầu bảo trì thấp. Hệ thống phanh tái tạo thông minh, nút dừng khẩn cấp. ","title":"An toàn và năng suất"},{"image":2961,"desc":"Kết cấu động cơ chống nước, chống bụi (IP 44). Công tắc chế độ con rùa.","title":"Cấu trúc"},{"image":3126,"desc":"Công nghệ CANbus giúp giảm độ phức tạp của hệ thống dây điện. \r\nTất cả các điểm trục đều có khớp nối ống mỡ và ống lót có thể bảo dưỡng dễ dàng, giảm mài mòn.  ","title":"Khả năng bảo trì"}],"noiBatOther":{"title":"Tính năng nổi bật khác","description":"<p>Xe nâng di chuyển Pallet dòng EPR mang lại khả năng cơ động và tầm nhìn tuyệt vời, thiết kế bền bỉ đem lại hiệu quả hoạt động trên cả khoảng cách trung bình đến dài.</p>\n<p>Hiệu suất chắc chắn, có bệ đỡ người vận hành có thể gập xuống dễ dàng.</p>\n<p>Khả năng điều khiển mượt mà, chính xác, độ ồn thấp và độ tin cậy toàn điện.</p>\n<p>Khoảng sáng gầm cao, đầu càng thuôn nhọn thuận tiện lấy hàng.</p>\n","image":3285},"anToan":{"title":null,"desc":null,"listFeature":[]},"otherBlock":null,"videos":[{"title":"Xe nâng pallet điện 25EPR","desc":"Bàn giao xe nâng 25EPR cho nhà máy thực phẩm CP Food. ","linkYoutube":"https://www.youtube.com/embed/vEckRZTJhM4","thumbnail":{"sourceUrl":"https://admin.nlp168.com.vn/wp-content/uploads/2022/12/CP3-1.jpg"},"thumb":3455}],"hinhAnh":{"title":"Hình Ảnh","desc":null,"images":[3604,3706,3809,3897,3995]}}
+{
+  "name": "25EPR",
+  "slug": "25epr",
+  "slugId": "25epr",
+  "typeProduct": "xe-loai-khac-2-hyundai-trung-quoc",
+  "description": "<p>Capacity: Up to 2500kg</p>\n<p>Lift height: Up to 210 mm</p>\n",
+  "thumb": 4102,
+  "locale": "vi",
+  "taiTrong": 2500,
+  "tamTai": 600,
+  "chieuCaoNang": 120,
+  "dongCo": null,
+  "congSuat": null,
+  "chieuDaiCang": null,
+  "hopSo": null,
+  "lopXe": null,
+  "phanhXe": null,
+  "noiBat": [
+    {
+      "image": 2817,
+      "desc": "Hệ thống điều khiển xoay chiều AC tiên tiến, yêu cầu bảo trì thấp. Hệ thống phanh tái tạo thông minh, nút dừng khẩn cấp. ",
+      "title": "An toàn và năng suất"
+    },
+    {
+      "image": 2961,
+      "desc": "Kết cấu động cơ chống nước, chống bụi (IP 44). Công tắc chế độ con rùa.",
+      "title": "Cấu trúc"
+    },
+    {
+      "image": 3126,
+      "desc": "Công nghệ CANbus giúp giảm độ phức tạp của hệ thống dây điện. \r\nTất cả các điểm trục đều có khớp nối ống mỡ và ống lót có thể bảo dưỡng dễ dàng, giảm mài mòn.  ",
+      "title": "Khả năng bảo trì"
+    }
+  ],
+  "noiBatOther": {
+    "title": "Tính năng nổi bật khác",
+    "description": "<p>Xe nâng di chuyển Pallet dòng EPR mang lại khả năng cơ động và tầm nhìn tuyệt vời, thiết kế bền bỉ đem lại hiệu quả hoạt động trên cả khoảng cách trung bình đến dài.</p>\n<p>Hiệu suất chắc chắn, có bệ đỡ người vận hành có thể gập xuống dễ dàng.</p>\n<p>Khả năng điều khiển mượt mà, chính xác, độ ồn thấp và độ tin cậy toàn điện.</p>\n<p>Khoảng sáng gầm cao, đầu càng thuôn nhọn thuận tiện lấy hàng.</p>\n",
+    "image": 3285
+  },
+  "anToan": {
+    "title": null,
+    "desc": null,
+    "listFeature": []
+  },
+  "otherBlock": null,
+  "videos": [
+    {
+      "title": "Xe nâng pallet điện 25EPR",
+      "desc": "Bàn giao xe nâng 25EPR cho nhà máy thực phẩm CP Food. ",
+      "linkYoutube": "https://www.youtube.com/embed/vEckRZTJhM4",
+      "thumbnail": {
+        "sourceUrl": "https://admin.nlp168.com.vn/wp-content/uploads/2022/12/CP3-1.jpg"
+      },
+      "thumb": 3455
+    }
+  ],
+  "hinhAnh": {
+    "title": "Hình Ảnh",
+    "desc": null,
+    "images": [
+      3604,
+      3706,
+      3809,
+      3897,
+      3995
+    ]
+  }
+}

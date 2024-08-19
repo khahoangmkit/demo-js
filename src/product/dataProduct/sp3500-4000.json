@@ -1,1 +1,87 @@
-{"name":"SP3500/4000","slug":"sp3500-4000","slugId":"sp3500-4000","typeProduct":"xe-nang-man-up-order-pickers","description":"<p>Capacity: Up to 1250kg</p>\n<p>Lift height: Up to 9460mm</p>\n","thumb":4318,"locale":"vi","taiTrong":1250,"tamTai":600,"chieuCaoNang":9460,"dongCo":null,"congSuat":null,"chieuDaiCang":null,"hopSo":null,"lopXe":null,"phanhXe":null,"noiBat":[{"image":2807,"desc":"Trục nâng ổn định với thiết kế théo khổ lớn, các máng chữ C bên ngoài và dầm chữ I bên trong, các thanh chắn góc ổn định mạnh mẽ. ","title":"Tính ổn định cao"},{"image":2949,"desc":"Với kích thước cửa làm việc lớn, dòng SP đem lại hiệu quả lớn, tầm nhìn tốt hơn, khả năng quan sát rõ ràng tăng sự tự tin cho người vận hành. ","title":"Tầm nhìn tối ưu"},{"image":3114,"desc":"Cảm biến thay đổi chiều cao tiêu chuẩn của dòng SP sẽ đo chiều cao gầm xe và xác định tốc độ tối đa cho phép. Bộ hồi nhiệt đặt thấp có sẵn sẽ thu nạp năng lượng bị mất và trả về cho bình điện, nâng cao độ bền, tuổi thọ và chi bảo dưỡng. ","title":"Hiệu suất cao"}],"noiBatOther":{"title":"Tuổi thọ và độ bền cao","description":"<p>Với thời gian sử dụng trong ca dài hơn, các chẩn đoán đã được chứng minh và mạng lưới các phụ tùng/dịch vụ toàn cầu, người sử dụng xe đặt hàng Crown SP chắc chắn sẽ hài lòng hơn, tuổi thọ xe dài hơn và tổng chi phí thấp hơn.</p>\n<p>Một số sản phẩm dòng SP có bình điện 36-volt, cho phép sử dụng bình điện và bộ sạc thông thường trên đội xe nâng của bạn để tối ưu hóa hiệu suất hoạt động của bình điện và thời gian sử dụng trong ca.</p>\n<p>Với dịch vụ sản xuất tích hợp theo chiều dọc và dịch vụ hậu mãi của Crown, tổng chi phí sở hữu có thể thấp hơn đáng kể theo thời gian.</p>\n","image":3250},"anToan":{"title":"Các tính năng khác","desc":null,"listFeature":[{"title":"Kẹp Pallet (Option)","desc":"Kẹp pallet cố định các pallet bằng dây để ngăn chặn các chuyển động không mong muốn. ","image":3405},{"title":"Quạt/Đèn (Option)","desc":"Bộ quạt/ đèn cung cấp nguồn sáng bổ sung và giúp người vận hành tiện lợi hơn trong các ứng dụng nâng người.","image":3512},{"title":"Bộ mở rộng giá đỡ","desc":"Bộ mở rộng giá đỡ được tùy chỉnh cung cấp không gian làm việc lớn hơn cho người vận hành để nâng hạ các hàng hóa lớn, không được xếp chồng.","image":3623},{"title":"Bộ điều khiển vận hành chịu tải","desc":"Bộ điều khiển vận hành chịu tải cải thiện tầm nhìn và hiệu suất làm việc của người vận hành khi di chuyển càng và chọn hàng.","image":3740},{"title":"Điều hướng bằng dây và trục","desc":"Điều hướng bằng dây và đường ray tự động hoá việc kiểm soát hệ thống lái, cho phép chiều rộng giữa lối đi là tối thiểu.\r\n\r\n","image":3824}]},"otherBlock":{"image":3930,"desc":null,"title":"Bảo dưỡng dễ dàng","content":"<p>Easy-Top Battery Access độc<br />\nquyền giúp loại bỏ khó khăn khi<br />\ntháo pin để thực hiện bảo trì<br />\nđịnh kỳ. Ngoài ra, việc nâng nắp<br />\ngiúp tản nhiệt trong quá<br />\ntrình sạc nhanh.</p>\n"},"videos":[],"hinhAnh":{"title":"Hình Ảnh","desc":null,"images":[4024,4144,4233]}}
+{
+  "name": "SP3500/4000",
+  "slug": "sp3500-4000",
+  "slugId": "sp3500-4000",
+  "typeProduct": "xe-nang-man-up-order-pickers",
+  "description": "<p>Capacity: Up to 1250kg</p>\n<p>Lift height: Up to 9460mm</p>\n",
+  "thumb": 4318,
+  "locale": "vi",
+  "taiTrong": 1250,
+  "tamTai": 600,
+  "chieuCaoNang": 9460,
+  "dongCo": null,
+  "congSuat": null,
+  "chieuDaiCang": null,
+  "hopSo": null,
+  "lopXe": null,
+  "phanhXe": null,
+  "noiBat": [
+    {
+      "image": 2807,
+      "desc": "Trục nâng ổn định với thiết kế théo khổ lớn, các máng chữ C bên ngoài và dầm chữ I bên trong, các thanh chắn góc ổn định mạnh mẽ. ",
+      "title": "Tính ổn định cao"
+    },
+    {
+      "image": 2949,
+      "desc": "Với kích thước cửa làm việc lớn, dòng SP đem lại hiệu quả lớn, tầm nhìn tốt hơn, khả năng quan sát rõ ràng tăng sự tự tin cho người vận hành. ",
+      "title": "Tầm nhìn tối ưu"
+    },
+    {
+      "image": 3114,
+      "desc": "Cảm biến thay đổi chiều cao tiêu chuẩn của dòng SP sẽ đo chiều cao gầm xe và xác định tốc độ tối đa cho phép. Bộ hồi nhiệt đặt thấp có sẵn sẽ thu nạp năng lượng bị mất và trả về cho bình điện, nâng cao độ bền, tuổi thọ và chi bảo dưỡng. ",
+      "title": "Hiệu suất cao"
+    }
+  ],
+  "noiBatOther": {
+    "title": "Tuổi thọ và độ bền cao",
+    "description": "<p>Với thời gian sử dụng trong ca dài hơn, các chẩn đoán đã được chứng minh và mạng lưới các phụ tùng/dịch vụ toàn cầu, người sử dụng xe đặt hàng Crown SP chắc chắn sẽ hài lòng hơn, tuổi thọ xe dài hơn và tổng chi phí thấp hơn.</p>\n<p>Một số sản phẩm dòng SP có bình điện 36-volt, cho phép sử dụng bình điện và bộ sạc thông thường trên đội xe nâng của bạn để tối ưu hóa hiệu suất hoạt động của bình điện và thời gian sử dụng trong ca.</p>\n<p>Với dịch vụ sản xuất tích hợp theo chiều dọc và dịch vụ hậu mãi của Crown, tổng chi phí sở hữu có thể thấp hơn đáng kể theo thời gian.</p>\n",
+    "image": 3250
+  },
+  "anToan": {
+    "title": "Các tính năng khác",
+    "desc": null,
+    "listFeature": [
+      {
+        "title": "Kẹp Pallet (Option)",
+        "desc": "Kẹp pallet cố định các pallet bằng dây để ngăn chặn các chuyển động không mong muốn. ",
+        "image": 3405
+      },
+      {
+        "title": "Quạt/Đèn (Option)",
+        "desc": "Bộ quạt/ đèn cung cấp nguồn sáng bổ sung và giúp người vận hành tiện lợi hơn trong các ứng dụng nâng người.",
+        "image": 3512
+      },
+      {
+        "title": "Bộ mở rộng giá đỡ",
+        "desc": "Bộ mở rộng giá đỡ được tùy chỉnh cung cấp không gian làm việc lớn hơn cho người vận hành để nâng hạ các hàng hóa lớn, không được xếp chồng.",
+        "image": 3623
+      },
+      {
+        "title": "Bộ điều khiển vận hành chịu tải",
+        "desc": "Bộ điều khiển vận hành chịu tải cải thiện tầm nhìn và hiệu suất làm việc của người vận hành khi di chuyển càng và chọn hàng.",
+        "image": 3740
+      },
+      {
+        "title": "Điều hướng bằng dây và trục",
+        "desc": "Điều hướng bằng dây và đường ray tự động hoá việc kiểm soát hệ thống lái, cho phép chiều rộng giữa lối đi là tối thiểu.\r\n\r\n",
+        "image": 3824
+      }
+    ]
+  },
+  "otherBlock": {
+    "image": 3930,
+    "desc": null,
+    "title": "Bảo dưỡng dễ dàng",
+    "content": "<p>Easy-Top Battery Access độc<br />\nquyền giúp loại bỏ khó khăn khi<br />\ntháo pin để thực hiện bảo trì<br />\nđịnh kỳ. Ngoài ra, việc nâng nắp<br />\ngiúp tản nhiệt trong quá<br />\ntrình sạc nhanh.</p>\n"
+  },
+  "videos": [],
+  "hinhAnh": {
+    "title": "Hình Ảnh",
+    "desc": null,
+    "images": [
+      4024,
+      4144,
+      4233
+    ]
+  }
+}

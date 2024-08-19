@@ -1,1 +1,31 @@
-{"name":"CBY-23S","slug":"cby-23s","slugId":"cby-23s","typeProduct":"xe-nang-tay","description":"<p>Capacity: Up to 2000kg</p>\n<p>Lift height: Up to 200mm</p>\n","thumb":2732,"locale":"vi","taiTrong":2000,"tamTai":null,"chieuCaoNang":200,"dongCo":null,"congSuat":null,"chieuDaiCang":null,"hopSo":null,"lopXe":null,"phanhXe":null,"noiBat":[],"anToan":{"title":null,"desc":null,"listFeature":[]},"otherBlock":null,"videos":[],"hinhAnh":{"title":"Hình Ảnh","desc":null,"images":[]}}
+{
+  "name": "CBY-23S",
+  "slug": "cby-23s",
+  "slugId": "cby-23s",
+  "typeProduct": "xe-nang-tay",
+  "description": "<p>Capacity: Up to 2000kg</p>\n<p>Lift height: Up to 200mm</p>\n",
+  "thumb": 2732,
+  "locale": "vi",
+  "taiTrong": 2000,
+  "tamTai": null,
+  "chieuCaoNang": 200,
+  "dongCo": null,
+  "congSuat": null,
+  "chieuDaiCang": null,
+  "hopSo": null,
+  "lopXe": null,
+  "phanhXe": null,
+  "noiBat": [],
+  "anToan": {
+    "title": null,
+    "desc": null,
+    "listFeature": []
+  },
+  "otherBlock": null,
+  "videos": [],
+  "hinhAnh": {
+    "title": "Hình Ảnh",
+    "desc": null,
+    "images": []
+  }
+}

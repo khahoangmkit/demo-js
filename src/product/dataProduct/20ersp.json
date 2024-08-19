@@ -1,1 +1,31 @@
-{"name":"20ERSP","slug":"20ersp","slugId":"20ersp","typeProduct":"xe-loai-khac-2-hyundai-trung-quoc","description":"<p>Capacity: Up to 2000kg</p>\n<p>Lift height: Up to 3000mm</p>\n","thumb":2857,"locale":"vi","taiTrong":2000,"tamTai":500,"chieuCaoNang":3000,"dongCo":null,"congSuat":null,"chieuDaiCang":null,"hopSo":null,"lopXe":null,"phanhXe":null,"noiBat":[],"anToan":{"title":null,"desc":null,"listFeature":[]},"otherBlock":null,"videos":[],"hinhAnh":{"title":"Hình Ảnh","desc":null,"images":[]}}
+{
+  "name": "20ERSP",
+  "slug": "20ersp",
+  "slugId": "20ersp",
+  "typeProduct": "xe-loai-khac-2-hyundai-trung-quoc",
+  "description": "<p>Capacity: Up to 2000kg</p>\n<p>Lift height: Up to 3000mm</p>\n",
+  "thumb": 2857,
+  "locale": "vi",
+  "taiTrong": 2000,
+  "tamTai": 500,
+  "chieuCaoNang": 3000,
+  "dongCo": null,
+  "congSuat": null,
+  "chieuDaiCang": null,
+  "hopSo": null,
+  "lopXe": null,
+  "phanhXe": null,
+  "noiBat": [],
+  "anToan": {
+    "title": null,
+    "desc": null,
+    "listFeature": []
+  },
+  "otherBlock": null,
+  "videos": [],
+  "hinhAnh": {
+    "title": "Hình Ảnh",
+    "desc": null,
+    "images": []
+  }
+}

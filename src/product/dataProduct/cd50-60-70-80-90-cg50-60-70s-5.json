@@ -1,1 +1,71 @@
-{"name":"CD50/60/70/80/90/CG50/60/70S-5","slug":"cd50-60-70-80-90-cg50-60-70s-5","slugId":"cd50-60-70-80-90-cg50-60-70s-5","typeProduct":"xe-nang-dong-co","description":"<p>Capacity: Up to 7000kg</p>\n<p>Lift height: Up to 6050mm</p>\n","thumb":4022,"locale":"vi","taiTrong":7000,"tamTai":600,"chieuCaoNang":6050,"dongCo":"DB58S","congSuat":73.6,"chieuDaiCang":"1200","hopSo":"Tự động","lopXe":"Hơi","phanhXe":"Thủy lực","noiBat":[{"image":2841,"desc":"Động cơ diesel 5.8L 6 xi-lanh mạnh mẽ này mang lại sức mạnh tuyệt vời để đáp ứng nhu cầu của những ứng dụng đòi hỏi\r\nkhắt khe nhất. Động cơ diesel DB58S tuân thủ các quy định về khí thải của EPA.\r\nĐộng cơ GM 4.3L LP Gas hiệu suất cao và sạch sẽ. ","title":"Động cơ Doosan 5,8 L dầu diesel hoặc HMC 3,9L "},{"image":3005,"desc":"Nhiệt độ nước làm mát động cơ, nhiệt độ dầu hộp số, đồng hồ đo RPM của động cơ, đồng hồ đo mức nhiên liệu và đồng hồ đo giờ giúp người lái biết được các điều kiện vận hành của máy.","title":"Bảng điều khiển tích hợp"},{"image":3156,"desc":"Phanh đĩa làm mát bằng dầu có sẵn trên D60S & D80S. Van điều khiển được gắn phía trên hộp số điều chỉnh chính xác áp suất dầu ly hợp để thay đổi hướng tiến/lùi mượt mà. Bộ ly hợp lớn và thiết kế hộp số cho phép chuyển số khi đang di chuyển. Hệ thống phanh kín này giúp loại bỏ ô nhiễm bên ngoài, kéo dài đáng kể tuổi thọ của phanh và giảm chi phí bảo trì. Phanh được làm mát bằng dầu có tuổi thọ gấp 5 lần so với phanh thông thường. ","title":"Phanh đĩa làm mát bằng dầu"}],"noiBatOther":{"title":"Tính năng nổi bật khác","description":"<p>Xe nâng dòng CD/CG với động cơ dầu diesel và động cơ gas phù hợp với các điều kiện môi trường khác nhau. Dòng xe nâng với một loạt cải tiến mới:</p>\n<ul>\n<li>Tối ưu hóa sự thoải mái và an toàn cho người vận hành</li>\n<li>Các thành phần đã được chứng minh và bền bỉ</li>\n<li>Hộp số tự động sang số hoàn toàn 2 hoặc 3 tốc độ</li>\n<li>OPSS (Hệ thống cảm biến sự hiện diện người vận hành)</li>\n</ul>\n","image":3318},"anToan":{"title":"Các tính năng khác","desc":"Xe nâng Crown được thiết kế với độ tin cậy cao, chú trọng đến tuổi thọ và độ bền giúp chúng có thể làm việc với cường độ và hiệu suất tốt hơn với thời gian lâu hơn. ","listFeature":[{"title":"Hệ thống lái thủy lực hoàn toàn","desc":"Hệ thống lái thủy lực mang lại khả năng lái ít tốn sức hơn với phản lực lớn hơn. ","image":3446},{"title":"Bình Gas kép và Giá đỡ LPG loại Swingdown","desc":"Bình Gas/LPG kép cung cấp nhiều nhiên liệu để đảm bảo hoạt động theo ca trong\r\nthời gian dài. Giá đỡ LPG xoay xuống giúp đơn giản hóa việc lắp đặt và tháo dỡ bình gas. ","image":3601},{"title":"Trục truyền động","desc":"Các trục trục bằng thép hợp kim có độ bền kéo cao được cacbon hóa để kéo dài tuổi thọ và được ghép nối với bánh răng bên vi sai & bánh răng trung tâm bánh dẫn động để truyền mô-men xoắn cao đến các bánh dẫn động một cách hiệu quả.","image":3700}]},"otherBlock":null,"videos":[],"hinhAnh":{"title":"Hình Ảnh","desc":null,"images":[3804,3933]}}
+{
+  "name": "CD50/60/70/80/90/CG50/60/70S-5",
+  "slug": "cd50-60-70-80-90-cg50-60-70s-5",
+  "slugId": "cd50-60-70-80-90-cg50-60-70s-5",
+  "typeProduct": "xe-nang-dong-co",
+  "description": "<p>Capacity: Up to 7000kg</p>\n<p>Lift height: Up to 6050mm</p>\n",
+  "thumb": 4022,
+  "locale": "vi",
+  "taiTrong": 7000,
+  "tamTai": 600,
+  "chieuCaoNang": 6050,
+  "dongCo": "DB58S",
+  "congSuat": 73.6,
+  "chieuDaiCang": "1200",
+  "hopSo": "Tự động",
+  "lopXe": "Hơi",
+  "phanhXe": "Thủy lực",
+  "noiBat": [
+    {
+      "image": 2841,
+      "desc": "Động cơ diesel 5.8L 6 xi-lanh mạnh mẽ này mang lại sức mạnh tuyệt vời để đáp ứng nhu cầu của những ứng dụng đòi hỏi\r\nkhắt khe nhất. Động cơ diesel DB58S tuân thủ các quy định về khí thải của EPA.\r\nĐộng cơ GM 4.3L LP Gas hiệu suất cao và sạch sẽ. ",
+      "title": "Động cơ Doosan 5,8 L dầu diesel hoặc HMC 3,9L "
+    },
+    {
+      "image": 3005,
+      "desc": "Nhiệt độ nước làm mát động cơ, nhiệt độ dầu hộp số, đồng hồ đo RPM của động cơ, đồng hồ đo mức nhiên liệu và đồng hồ đo giờ giúp người lái biết được các điều kiện vận hành của máy.",
+      "title": "Bảng điều khiển tích hợp"
+    },
+    {
+      "image": 3156,
+      "desc": "Phanh đĩa làm mát bằng dầu có sẵn trên D60S & D80S. Van điều khiển được gắn phía trên hộp số điều chỉnh chính xác áp suất dầu ly hợp để thay đổi hướng tiến/lùi mượt mà. Bộ ly hợp lớn và thiết kế hộp số cho phép chuyển số khi đang di chuyển. Hệ thống phanh kín này giúp loại bỏ ô nhiễm bên ngoài, kéo dài đáng kể tuổi thọ của phanh và giảm chi phí bảo trì. Phanh được làm mát bằng dầu có tuổi thọ gấp 5 lần so với phanh thông thường. ",
+      "title": "Phanh đĩa làm mát bằng dầu"
+    }
+  ],
+  "noiBatOther": {
+    "title": "Tính năng nổi bật khác",
+    "description": "<p>Xe nâng dòng CD/CG với động cơ dầu diesel và động cơ gas phù hợp với các điều kiện môi trường khác nhau. Dòng xe nâng với một loạt cải tiến mới:</p>\n<ul>\n<li>Tối ưu hóa sự thoải mái và an toàn cho người vận hành</li>\n<li>Các thành phần đã được chứng minh và bền bỉ</li>\n<li>Hộp số tự động sang số hoàn toàn 2 hoặc 3 tốc độ</li>\n<li>OPSS (Hệ thống cảm biến sự hiện diện người vận hành)</li>\n</ul>\n",
+    "image": 3318
+  },
+  "anToan": {
+    "title": "Các tính năng khác",
+    "desc": "Xe nâng Crown được thiết kế với độ tin cậy cao, chú trọng đến tuổi thọ và độ bền giúp chúng có thể làm việc với cường độ và hiệu suất tốt hơn với thời gian lâu hơn. ",
+    "listFeature": [
+      {
+        "title": "Hệ thống lái thủy lực hoàn toàn",
+        "desc": "Hệ thống lái thủy lực mang lại khả năng lái ít tốn sức hơn với phản lực lớn hơn. ",
+        "image": 3446
+      },
+      {
+        "title": "Bình Gas kép và Giá đỡ LPG loại Swingdown",
+        "desc": "Bình Gas/LPG kép cung cấp nhiều nhiên liệu để đảm bảo hoạt động theo ca trong\r\nthời gian dài. Giá đỡ LPG xoay xuống giúp đơn giản hóa việc lắp đặt và tháo dỡ bình gas. ",
+        "image": 3601
+      },
+      {
+        "title": "Trục truyền động",
+        "desc": "Các trục trục bằng thép hợp kim có độ bền kéo cao được cacbon hóa để kéo dài tuổi thọ và được ghép nối với bánh răng bên vi sai & bánh răng trung tâm bánh dẫn động để truyền mô-men xoắn cao đến các bánh dẫn động một cách hiệu quả.",
+        "image": 3700
+      }
+    ]
+  },
+  "otherBlock": null,
+  "videos": [],
+  "hinhAnh": {
+    "title": "Hình Ảnh",
+    "desc": null,
+    "images": [
+      3804,
+      3933
+    ]
+  }
+}

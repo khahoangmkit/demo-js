@@ -1,1 +1,57 @@
-{"name":"SWP-3000","slug":"swp-3000","slugId":"swp-3000","typeProduct":"xe-nang-di-chuyen-pallet","description":"<p>Capacity: Up to 3000kg</p>\n<p>Lift height: Up to 205mm</p>\n","thumb":3467,"locale":"vi","taiTrong":3000,"tamTai":575,"chieuCaoNang":205,"dongCo":null,"congSuat":null,"chieuDaiCang":null,"hopSo":null,"lopXe":null,"phanhXe":null,"noiBat":[{"image":2741,"desc":"Giúp người điều khiển lái xe êm ái, không rung và giảm đáng kể tiếng ồn. ","title":"Động cơ và hệ thống điện xoay chiều"},{"image":2923,"desc":"Thiết kế nhỏ gọn kết hợp với mới công nghệ, làm cho sản phẩm này lý tưởng cho\r\nlối đi chật hẹp, chật chội.","title":"Thiết kế nhỏ gọn"},{"image":3035,"desc":"Thiết kế càng nâng được tối ưu hóa cho công việc của pallet.","title":"Thiết kế càng nâng tối ưu hóa"}],"noiBatOther":{"title":"Tính năng nổi bật khác","description":"<p>Ngoài thiết kế nổi bật trên, xe nâng pallet điện dòng SWP còn có các tính năng nổi bật khác như:</p>\n<ul>\n<li>Độ bền chắc chắn</li>\n<li>Điều chỉnh tốc độ phù hợp</li>\n<li>Tay cầm có công tắc EM (tránh bị kẹt trong tình trạng khẩn cấp)</li>\n<li>Tự động giảm tốc khi quay nhanh (tự động giảm tốc xuống 1/2 tốc độ khi quay nhanh)</li>\n</ul>\n","image":3194},"anToan":{"title":null,"desc":null,"listFeature":[]},"otherBlock":{"image":3343,"desc":null,"title":"Chỉ báo mức pin (BDI)","content":null},"videos":[],"hinhAnh":{"title":"Hình Ảnh","desc":null,"images":[]}}
+{
+  "name": "SWP-3000",
+  "slug": "swp-3000",
+  "slugId": "swp-3000",
+  "typeProduct": "xe-nang-di-chuyen-pallet",
+  "description": "<p>Capacity: Up to 3000kg</p>\n<p>Lift height: Up to 205mm</p>\n",
+  "thumb": 3467,
+  "locale": "vi",
+  "taiTrong": 3000,
+  "tamTai": 575,
+  "chieuCaoNang": 205,
+  "dongCo": null,
+  "congSuat": null,
+  "chieuDaiCang": null,
+  "hopSo": null,
+  "lopXe": null,
+  "phanhXe": null,
+  "noiBat": [
+    {
+      "image": 2741,
+      "desc": "Giúp người điều khiển lái xe êm ái, không rung và giảm đáng kể tiếng ồn. ",
+      "title": "Động cơ và hệ thống điện xoay chiều"
+    },
+    {
+      "image": 2923,
+      "desc": "Thiết kế nhỏ gọn kết hợp với mới công nghệ, làm cho sản phẩm này lý tưởng cho\r\nlối đi chật hẹp, chật chội.",
+      "title": "Thiết kế nhỏ gọn"
+    },
+    {
+      "image": 3035,
+      "desc": "Thiết kế càng nâng được tối ưu hóa cho công việc của pallet.",
+      "title": "Thiết kế càng nâng tối ưu hóa"
+    }
+  ],
+  "noiBatOther": {
+    "title": "Tính năng nổi bật khác",
+    "description": "<p>Ngoài thiết kế nổi bật trên, xe nâng pallet điện dòng SWP còn có các tính năng nổi bật khác như:</p>\n<ul>\n<li>Độ bền chắc chắn</li>\n<li>Điều chỉnh tốc độ phù hợp</li>\n<li>Tay cầm có công tắc EM (tránh bị kẹt trong tình trạng khẩn cấp)</li>\n<li>Tự động giảm tốc khi quay nhanh (tự động giảm tốc xuống 1/2 tốc độ khi quay nhanh)</li>\n</ul>\n",
+    "image": 3194
+  },
+  "anToan": {
+    "title": null,
+    "desc": null,
+    "listFeature": []
+  },
+  "otherBlock": {
+    "image": 3343,
+    "desc": null,
+    "title": "Chỉ báo mức pin (BDI)",
+    "content": null
+  },
+  "videos": [],
+  "hinhAnh": {
+    "title": "Hình Ảnh",
+    "desc": null,
+    "images": []
+  }
+}

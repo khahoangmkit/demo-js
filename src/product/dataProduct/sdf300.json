@@ -1,1 +1,47 @@
-{"name":"SDF300","slug":"sdf300","slugId":"sdf300","typeProduct":"xe-nang-dau-soosung","description":"<p>Capacity: Up to 30000kg</p>\n<p>Lift height: Up to 4000mm</p>\n","thumb":3182,"locale":"vi","taiTrong":30000,"tamTai":900,"chieuCaoNang":4000,"dongCo":"VOLVO","congSuat":180,"chieuDaiCang":"2440","hopSo":"Tự động","lopXe":"Đặc","phanhXe":"Thủy lực","noiBat":[{"image":2765,"desc":"Động cơ Soosung thiết kế mạnh mẽ, vượt trội so với các đối thủ cạnh tranh tầm trung trên thị trường. Khả năng nâng hạ linh hoạt, vững chắc. ","title":"Động cơ mạnh mẽ"},{"image":2943,"desc":"Hệ thống bảo vệ tiêu chuẩn đầy đủ, đảm bảo cho người vận hành an toàn trong suốt quá trình vận hành. ","title":"Mái bảo vệ trên cao mạnh mẽ"},{"image":3101,"desc":"Thiết kế đơn giản, trung tâm điều khiển thân thiện người dùng. Ghế ngồi công thái học. ","title":"Thiết kế thân thiện"}],"anToan":{"title":null,"desc":null,"listFeature":[]},"otherBlock":null,"videos":[],"hinhAnh":{"title":"Hình Ảnh","desc":null,"images":[]}}
+{
+  "name": "SDF300",
+  "slug": "sdf300",
+  "slugId": "sdf300",
+  "typeProduct": "xe-nang-dau-soosung",
+  "description": "<p>Capacity: Up to 30000kg</p>\n<p>Lift height: Up to 4000mm</p>\n",
+  "thumb": 3182,
+  "locale": "vi",
+  "taiTrong": 30000,
+  "tamTai": 900,
+  "chieuCaoNang": 4000,
+  "dongCo": "VOLVO",
+  "congSuat": 180,
+  "chieuDaiCang": "2440",
+  "hopSo": "Tự động",
+  "lopXe": "Đặc",
+  "phanhXe": "Thủy lực",
+  "noiBat": [
+    {
+      "image": 2765,
+      "desc": "Động cơ Soosung thiết kế mạnh mẽ, vượt trội so với các đối thủ cạnh tranh tầm trung trên thị trường. Khả năng nâng hạ linh hoạt, vững chắc. ",
+      "title": "Động cơ mạnh mẽ"
+    },
+    {
+      "image": 2943,
+      "desc": "Hệ thống bảo vệ tiêu chuẩn đầy đủ, đảm bảo cho người vận hành an toàn trong suốt quá trình vận hành. ",
+      "title": "Mái bảo vệ trên cao mạnh mẽ"
+    },
+    {
+      "image": 3101,
+      "desc": "Thiết kế đơn giản, trung tâm điều khiển thân thiện người dùng. Ghế ngồi công thái học. ",
+      "title": "Thiết kế thân thiện"
+    }
+  ],
+  "anToan": {
+    "title": null,
+    "desc": null,
+    "listFeature": []
+  },
+  "otherBlock": null,
+  "videos": [],
+  "hinhAnh": {
+    "title": "Hình Ảnh",
+    "desc": null,
+    "images": []
+  }
+}

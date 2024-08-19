@@ -1,1 +1,47 @@
-{"name":"20HP","slug":"20hp","slugId":"20hp","typeProduct":"xe-loai-khac-2-hyundai-trung-quoc","description":"<p>Capacity: Up to 2000kg</p>\n<p>Lift height: Up to 190mm</p>\n","thumb":3309,"locale":"vi","taiTrong":2000,"tamTai":22,"chieuCaoNang":190,"dongCo":null,"congSuat":null,"chieuDaiCang":null,"hopSo":null,"lopXe":null,"phanhXe":null,"noiBat":[{"image":2805,"desc":"Tay lái dẫn động Polyurethane và tay nắm bọc cao su. ","title":"Cấu hình tiêu chuẩn"},{"image":2963,"desc":"Lựa chọn thêm các Option cho xe nâng: Bánh xe dẫn động, nhả bàn đạp chân, nâng phanh,...","title":"Lựa chọn đa dạng"},{"image":3150,"desc":"Thiết kế nhỏ gọn, cứng cáp, là loại xe nâng tay lý tưởng để vận hành ở khu vực chật hẹp, đảm bảo an toàn và hiệu quả. ","title":"Thiết kế nhỏ gọn"}],"anToan":{"title":null,"desc":null,"listFeature":[]},"otherBlock":null,"videos":[],"hinhAnh":{"title":"Hình Ảnh","desc":null,"images":[]}}
+{
+  "name": "20HP",
+  "slug": "20hp",
+  "slugId": "20hp",
+  "typeProduct": "xe-loai-khac-2-hyundai-trung-quoc",
+  "description": "<p>Capacity: Up to 2000kg</p>\n<p>Lift height: Up to 190mm</p>\n",
+  "thumb": 3309,
+  "locale": "vi",
+  "taiTrong": 2000,
+  "tamTai": 22,
+  "chieuCaoNang": 190,
+  "dongCo": null,
+  "congSuat": null,
+  "chieuDaiCang": null,
+  "hopSo": null,
+  "lopXe": null,
+  "phanhXe": null,
+  "noiBat": [
+    {
+      "image": 2805,
+      "desc": "Tay lái dẫn động Polyurethane và tay nắm bọc cao su. ",
+      "title": "Cấu hình tiêu chuẩn"
+    },
+    {
+      "image": 2963,
+      "desc": "Lựa chọn thêm các Option cho xe nâng: Bánh xe dẫn động, nhả bàn đạp chân, nâng phanh,...",
+      "title": "Lựa chọn đa dạng"
+    },
+    {
+      "image": 3150,
+      "desc": "Thiết kế nhỏ gọn, cứng cáp, là loại xe nâng tay lý tưởng để vận hành ở khu vực chật hẹp, đảm bảo an toàn và hiệu quả. ",
+      "title": "Thiết kế nhỏ gọn"
+    }
+  ],
+  "anToan": {
+    "title": null,
+    "desc": null,
+    "listFeature": []
+  },
+  "otherBlock": null,
+  "videos": [],
+  "hinhAnh": {
+    "title": "Hình Ảnh",
+    "desc": null,
+    "images": []
+  }
+}

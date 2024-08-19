@@ -1,1 +1,52 @@
-{"name":"15ESR","slug":"15esr","slugId":"15esr","typeProduct":"xe-loai-khac-2-hyundai-trung-quoc","description":"<p>Capacity: Up to 1500kg</p>\n<p>Lift height: Up to 3000mm</p>\n","thumb":3460,"locale":"vi","taiTrong":1500,"tamTai":600,"chieuCaoNang":3000,"dongCo":null,"congSuat":null,"chieuDaiCang":null,"hopSo":null,"lopXe":null,"phanhXe":null,"noiBat":[{"image":2868,"desc":"Động cơ tiên tiến, hiệu suất cao. Xy lanh có van chống cháy nổ, an toàn tránh rơi càng nâng khi ống dầu ngột ngột bị hỏng đảm bảo an toàn cho người vận hành. ","title":"An toàn và năng suất"},{"image":3021,"desc":"Xe nâng Reach Stacker với thiết kế nhỏ gọn có nhiều lựa chọn có bệ hoặc không có bệ đứng. Trọng lực thấp đảm bảo an toàn cho người vận hành. ","title":"Thiết kế nhỏ gọn"},{"image":3159,"desc":"Thiết kế cài đặt bảo vệ điện áp giúp kéo dài tuổi thọ của pin. (Khi pin dưới 20% chỉ có thể lái không nâng)","title":"Khả năng bảo trì"}],"noiBatOther":{"title":"Tính năng nổi bật khác","description":"<p>Xe nâng pallet Hyundai 15ESR còn được trang bị thêm các đặc điểm sau:</p>\n<ul>\n<li>Tự động giảm tốc độ khi chiều cao nâng lên 1.8M</li>\n<li>Trụ với công tắc vi mô giới hạn chiều cao nâng xi lanh để tránh các vấn đề về chấn động cột.</li>\n<li>Option trợ lực lái EPS giúp đánh lái nhẹ nhàng và chắc chắn hơn.</li>\n</ul>\n","image":3315},"anToan":{"title":null,"desc":null,"listFeature":[]},"otherBlock":null,"videos":[],"hinhAnh":{"title":"Hình Ảnh","desc":null,"images":[]}}
+{
+  "name": "15ESR",
+  "slug": "15esr",
+  "slugId": "15esr",
+  "typeProduct": "xe-loai-khac-2-hyundai-trung-quoc",
+  "description": "<p>Capacity: Up to 1500kg</p>\n<p>Lift height: Up to 3000mm</p>\n",
+  "thumb": 3460,
+  "locale": "vi",
+  "taiTrong": 1500,
+  "tamTai": 600,
+  "chieuCaoNang": 3000,
+  "dongCo": null,
+  "congSuat": null,
+  "chieuDaiCang": null,
+  "hopSo": null,
+  "lopXe": null,
+  "phanhXe": null,
+  "noiBat": [
+    {
+      "image": 2868,
+      "desc": "Động cơ tiên tiến, hiệu suất cao. Xy lanh có van chống cháy nổ, an toàn tránh rơi càng nâng khi ống dầu ngột ngột bị hỏng đảm bảo an toàn cho người vận hành. ",
+      "title": "An toàn và năng suất"
+    },
+    {
+      "image": 3021,
+      "desc": "Xe nâng Reach Stacker với thiết kế nhỏ gọn có nhiều lựa chọn có bệ hoặc không có bệ đứng. Trọng lực thấp đảm bảo an toàn cho người vận hành. ",
+      "title": "Thiết kế nhỏ gọn"
+    },
+    {
+      "image": 3159,
+      "desc": "Thiết kế cài đặt bảo vệ điện áp giúp kéo dài tuổi thọ của pin. (Khi pin dưới 20% chỉ có thể lái không nâng)",
+      "title": "Khả năng bảo trì"
+    }
+  ],
+  "noiBatOther": {
+    "title": "Tính năng nổi bật khác",
+    "description": "<p>Xe nâng pallet Hyundai 15ESR còn được trang bị thêm các đặc điểm sau:</p>\n<ul>\n<li>Tự động giảm tốc độ khi chiều cao nâng lên 1.8M</li>\n<li>Trụ với công tắc vi mô giới hạn chiều cao nâng xi lanh để tránh các vấn đề về chấn động cột.</li>\n<li>Option trợ lực lái EPS giúp đánh lái nhẹ nhàng và chắc chắn hơn.</li>\n</ul>\n",
+    "image": 3315
+  },
+  "anToan": {
+    "title": null,
+    "desc": null,
+    "listFeature": []
+  },
+  "otherBlock": null,
+  "videos": [],
+  "hinhAnh": {
+    "title": "Hình Ảnh",
+    "desc": null,
+    "images": []
+  }
+}

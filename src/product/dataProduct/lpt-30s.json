@@ -1,1 +1,31 @@
-{"name":"LPT-30S","slug":"lpt-30s","slugId":"lpt-30s","typeProduct":"xe-nang-pallet-dien","description":"<p>Capacity: Up to 3000kg</p>\n<p>Lift height: Up to 205mm</p>\n","thumb":2730,"locale":"vi","taiTrong":3000,"tamTai":null,"chieuCaoNang":205,"dongCo":null,"congSuat":null,"chieuDaiCang":null,"hopSo":null,"lopXe":null,"phanhXe":null,"noiBat":[],"anToan":{"title":null,"desc":null,"listFeature":[]},"otherBlock":null,"videos":[],"hinhAnh":{"title":"Hình Ảnh","desc":null,"images":[]}}
+{
+  "name": "LPT-30S",
+  "slug": "lpt-30s",
+  "slugId": "lpt-30s",
+  "typeProduct": "xe-nang-pallet-dien",
+  "description": "<p>Capacity: Up to 3000kg</p>\n<p>Lift height: Up to 205mm</p>\n",
+  "thumb": 2730,
+  "locale": "vi",
+  "taiTrong": 3000,
+  "tamTai": null,
+  "chieuCaoNang": 205,
+  "dongCo": null,
+  "congSuat": null,
+  "chieuDaiCang": null,
+  "hopSo": null,
+  "lopXe": null,
+  "phanhXe": null,
+  "noiBat": [],
+  "anToan": {
+    "title": null,
+    "desc": null,
+    "listFeature": []
+  },
+  "otherBlock": null,
+  "videos": [],
+  "hinhAnh": {
+    "title": "Hình Ảnh",
+    "desc": null,
+    "images": []
+  }
+}

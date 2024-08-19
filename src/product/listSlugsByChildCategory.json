@@ -1,0 +1,318 @@
+{
+  "xe-nang-dau": [
+    "15d-7e",
+    "18d-7e",
+    "20da-7e",
+    "25df-7",
+    "25d-9",
+    "30df-7",
+    "30d-9",
+    "33df-7",
+    "35da-9",
+    "35d-9s",
+    "40d-9s",
+    "45d-9s-2",
+    "70df-7",
+    "70d-7e",
+    "80d-7e",
+    "100d-9-xe-nang-dau-10-tan",
+    "110d-7e",
+    "130d-7e",
+    "160d-7e",
+    "180d-7e",
+    "250d-7e",
+    "300d-9"
+  ],
+  "xe-nang-dien": [
+    "15bt-9u",
+    "16b-9f",
+    "18bt-9u",
+    "18b-9f",
+    "20bt-9u",
+    "20b-9f",
+    "25b-9u",
+    "25b-9f",
+    "30b-9f",
+    "40b-9",
+    "45b-9",
+    "50b-9",
+    "35b-9u",
+    "50dn-9vb",
+    "50d-9sa"
+  ],
+  "reach-truck": [
+    "25br-x",
+    "25br-9",
+    "16brj-9",
+    "20brj-9",
+    "23brp-9",
+    "20brp-9",
+    "20br-9",
+    "15brp-9",
+    "15br-x",
+    "15br-9",
+    "18brp-9",
+    "18br-x",
+    "18br-9"
+  ],
+  "xe-loai-khac": [
+    "20bcs-9",
+    "18bcs-9",
+    "15bcs-9",
+    "13bop-9",
+    "50l-9",
+    "45l-9",
+    "40l-9",
+    "33l-7a",
+    "30l-7a",
+    "25l-7a",
+    "20l-7m",
+    "18l-7m",
+    "15l-7m"
+  ],
+  "xe-nang-dau-xe-hyundai-trung-quoc": [
+    "20d-7sa",
+    "xe-nang-dau-25-tan-25d-7sa",
+    "25de-7",
+    "30d-7sa",
+    "30de-7",
+    "35d-7sa",
+    "35de-7"
+  ],
+  "xe-nang-dien-xe-hyundai-trung-quoc": [
+    "25be-x",
+    "25b-7a",
+    "30be-x",
+    "30b-7a",
+    "35be-x",
+    "35b-7a"
+  ],
+  "xe-nang-gas": [
+    "25le-7",
+    "30le-7",
+    "35le-7"
+  ],
+  "xe-loai-khac-2-hyundai-trung-quoc": [
+    "25epr",
+    "20epr",
+    "30hp",
+    "25hp",
+    "20hp",
+    "15esr",
+    "12esn",
+    "20ersp",
+    "15ersp",
+    "15es",
+    "12es",
+    "10es",
+    "20edpr",
+    "30epcr",
+    "20ep",
+    "18ep",
+    "15ep"
+  ],
+  "xe-nang-dong-co": [
+    "c-5-1000",
+    "c-5-1055",
+    "c-5-1050",
+    "cd15-18s-20sc-cg15-18s-20ss-5",
+    "d110-130-160s-5",
+    "cd50-60-70-80-90-cg50-60-70s-5",
+    "cd20-25-30-33s-35c-5",
+    "cd35-40-45s-50-55c-5",
+    "cg20-35nxp",
+    "cd20-35nx",
+    "cd20-35nxp"
+  ],
+  "xe-nang-dien-crown": [
+    "rc-5700-crown-forklift",
+    "sc-6000",
+    "fc-5200"
+  ],
+  "xe-nang-man-up-order-pickers": [
+    "sp3500-4000",
+    "wav-60-crown",
+    "tsp-7000-crown",
+    "tsp-6500",
+    "crown-lp-3500-lifting-forks",
+    "crown-lp-3500-fixed-fork"
+  ],
+  "reach-trucks": [
+    "rmd-6000-crown",
+    "rm-6000",
+    "rr-5700-crown-forklift",
+    "esr-5700"
+  ],
+  "xe-nang-pallet": [
+    "pth-50s-50ps",
+    "pth-18-23",
+    "wp-3000-series-crown-forklift",
+    "pw-3500",
+    "pe-4500",
+    "pc-4500-crown",
+    "pr-4500-crown",
+    "wt-3000-crown-forklift",
+    "crown-rt-4040",
+    "rt-4020",
+    "gpc-3000",
+    "mpc-3000",
+    "tr-4500",
+    "tc-3000"
+  ],
+  "xe-nang-stackers": [
+    "m-3000",
+    "et-4000",
+    "dt-3000",
+    "wf-st-sx-3000"
+  ],
+  "xe-nang-dau-soosung": [
+    "sdf25",
+    "sdf30",
+    "sdf50",
+    "sdf70",
+    "sdf80",
+    "sdf100",
+    "sdf300",
+    "sdf480"
+  ],
+  "xe-nang-dien-soosung": [
+    "sbf15a",
+    "sbr-16",
+    "sbr-18",
+    "sbf20a",
+    "sbr-20",
+    "sbf25a",
+    "sbr-25",
+    "sbf30a"
+  ],
+  "xe-nang-di-chuyen-pallet": [
+    "swp-1300",
+    "swp-2000",
+    "swp-2500",
+    "swp-3000"
+  ],
+  "xe-nang-stacker": [
+    "swc-1000l",
+    "swc-1000",
+    "sws-1000lp",
+    "sws-1000p",
+    "swr-1300l",
+    "swr-1300",
+    "swr-1500l"
+  ],
+  "xe-nang-khac-soosung": [
+    "sct-2000n",
+    "stt-2000",
+    "spt-1000-4-banh",
+    "spt-1000-3-banh",
+    "spt-2000-3-banh",
+    "sst-4000",
+    "sst-6000",
+    "sst-8000",
+    "sst-12000",
+    "shp-3500",
+    "ssl-3370",
+    "ssl-2646",
+    "ssl-1932"
+  ],
+  "xe-nang-di-chuyen-4-huong": [
+    "c2500-c25-000"
+  ],
+  "xe-nang-aisle-master": [
+    "ac-electric-aisle-master"
+  ],
+  "xe-nang-tay": [
+    "cby-23l",
+    "cby-23s",
+    "cby-23m"
+  ],
+  "xe-nang-ban-tu-dong": [
+    "d-1000"
+  ],
+  "xe-nang-thang": [
+    "mawp-12d",
+    "mawp-8s"
+  ],
+  "xe-nang-pallet-dien": [
+    "lps-15e",
+    "lpt-22s",
+    "lpt-20e",
+    "lpt-30s"
+  ],
+  "dich-gia-side-shift": [
+    "dich-gia-demo"
+  ],
+  "dich-cang-fork-positioner": [
+    "dich-cang-nang-1-can-dieu-khien",
+    "bo-dich-cang-fork-positioner"
+  ],
+  "cang-xoay-360-rotating-fork": [
+    "xe-nang-cang-xoay-360"
+  ],
+  "kep-giay-tron-xoay-roll-paper-clamp": [],
+  "kep-vuong-bale-clamp": [
+    "kep-vuong-bale-clamp"
+  ],
+  "he-thong-gau-xuc-hinged-bucket": [
+    "gau-xuc-hinged-bucket"
+  ],
+  "cang-gat-gu-lat-do-hinged-fork": [
+    "cang-gat-gu-lat-do-hinged-fork"
+  ],
+  "he-thong-keo-va-day-push-pull": [
+    "he-thong-keo-day-push-pull"
+  ],
+  "he-thong-kep-giu-kien-hang": [
+    "he-thong-kep-giu-kien-hang-load-stabilizer"
+  ],
+  "kep-carton-carton-clamp": [
+    "kep-carton-carton-clamp"
+  ],
+  "dao-pallet-pallet-inverter": [
+    "dao-pallet-pallet-inverter"
+  ],
+  "day-hang-load-push": [
+    "day-hang-load-push"
+  ],
+  "kep-phuy-drum-clamp": [
+    "kep-phuy-drum-clamp"
+  ],
+  "di-chuyen-phuy-drum-picker": [
+    "di-chuyen-phuy-drum-picker"
+  ],
+  "load-extender": [
+    "load-extender"
+  ],
+  "xe-nang-dau-5-phu-tung-xe-nang": [
+    "lop-2",
+    "phanh",
+    "dau-thuy-luc",
+    "loc-thuy-luc",
+    "loc-dau-dong-co",
+    "loc-dau-phanh",
+    "dong-co",
+    "hop-so",
+    "cau",
+    "bom-thuy-luc"
+  ],
+  "xe-nang-dien-5-phu-tung-xe-nang": [
+    "lop-2"
+  ],
+  "reach-truck-5-phu-tung-xe-nang": [
+    "cang-phu",
+    "bom-thuy-luc-2",
+    "ac-quy-xe-nang-hang",
+    "hop-dieu-khien",
+    "lop-2",
+    "motor-xe-nang-dien",
+    "phanh-dia-uot",
+    "sac-xe-nang-dien",
+    "dau-thuy-luc-2",
+    "man-hinh",
+    "chia-khoa",
+    "tay-can-dieu-khien-2"
+  ],
+  "xe-loai-khac-5-phu-tung-xe-nang": [
+    "lop-2"
+  ]
+}

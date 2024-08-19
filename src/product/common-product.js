@@ -37,6 +37,23 @@ export async function createProduct(data) {
   }
 }
 
+export async function createProductVersion(data) {
+  try {
+    console.log('try create Product')
+
+    const res = await axios.post(`${UrlStrapi}/api/product-versions`, {data: data}, {
+      headers: {
+        Authorization: `Bearer ${token.TokenFullAccessLocal}`,
+        // 'Content-Type': 'multipart/form-data',
+      }
+    })
+
+    console.log("success create Product Version: ", res.data.id);
+  } catch (err) {
+    console.log("crate post failed: ", err)
+  }
+}
+
 function demoWriteFile() {
   let data = DataCategory;
 
@@ -47,4 +64,5 @@ function demoWriteFile() {
     if (err) throw err;
   })
 }
-demoWriteFile();
+// demoWriteFile();
+// await createProductVersion()

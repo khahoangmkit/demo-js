@@ -1,1 +1,31 @@
-{"name":"TC 3000","slug":"tc-3000","slugId":"tc-3000","typeProduct":"xe-nang-pallet","description":"<p>Xe kéo mooc</p>\n<p>TC 3000</p>\n<p>&nbsp;</p>\n","thumb":2766,"locale":"vi","taiTrong":null,"tamTai":null,"chieuCaoNang":null,"dongCo":null,"congSuat":null,"chieuDaiCang":null,"hopSo":null,"lopXe":null,"phanhXe":null,"noiBat":[],"anToan":{"title":null,"desc":null,"listFeature":[]},"otherBlock":null,"videos":[],"hinhAnh":{"title":"Hình Ảnh","desc":null,"images":[]}}
+{
+  "name": "TC 3000",
+  "slug": "tc-3000",
+  "slugId": "tc-3000",
+  "typeProduct": "xe-nang-pallet",
+  "description": "<p>Xe kéo mooc</p>\n<p>TC 3000</p>\n<p>&nbsp;</p>\n",
+  "thumb": 2766,
+  "locale": "vi",
+  "taiTrong": null,
+  "tamTai": null,
+  "chieuCaoNang": null,
+  "dongCo": null,
+  "congSuat": null,
+  "chieuDaiCang": null,
+  "hopSo": null,
+  "lopXe": null,
+  "phanhXe": null,
+  "noiBat": [],
+  "anToan": {
+    "title": null,
+    "desc": null,
+    "listFeature": []
+  },
+  "otherBlock": null,
+  "videos": [],
+  "hinhAnh": {
+    "title": "Hình Ảnh",
+    "desc": null,
+    "images": []
+  }
+}

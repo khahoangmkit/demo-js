@@ -1,1 +1,31 @@
-{"name":"MAWP-8S","slug":"mawp-8s","slugId":"mawp-8s","typeProduct":"xe-nang-thang","description":"<p>Capacity: Up to 125kg</p>\n<p>Lift height: Up to 8000mm</p>\n","thumb":2729,"locale":"vi","taiTrong":125,"tamTai":null,"chieuCaoNang":8000,"dongCo":null,"congSuat":null,"chieuDaiCang":null,"hopSo":null,"lopXe":null,"phanhXe":null,"noiBat":[],"anToan":{"title":null,"desc":null,"listFeature":[]},"otherBlock":null,"videos":[],"hinhAnh":{"title":"Hình Ảnh","desc":null,"images":[]}}
+{
+  "name": "MAWP-8S",
+  "slug": "mawp-8s",
+  "slugId": "mawp-8s",
+  "typeProduct": "xe-nang-thang",
+  "description": "<p>Capacity: Up to 125kg</p>\n<p>Lift height: Up to 8000mm</p>\n",
+  "thumb": 2729,
+  "locale": "vi",
+  "taiTrong": 125,
+  "tamTai": null,
+  "chieuCaoNang": 8000,
+  "dongCo": null,
+  "congSuat": null,
+  "chieuDaiCang": null,
+  "hopSo": null,
+  "lopXe": null,
+  "phanhXe": null,
+  "noiBat": [],
+  "anToan": {
+    "title": null,
+    "desc": null,
+    "listFeature": []
+  },
+  "otherBlock": null,
+  "videos": [],
+  "hinhAnh": {
+    "title": "Hình Ảnh",
+    "desc": null,
+    "images": []
+  }
+}

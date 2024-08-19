@@ -1,1 +1,93 @@
-{"name":"PC 4500","slug":"pc-4500-crown","slugId":"pc-4500-crown","typeProduct":"xe-nang-pallet","description":"<p>Capacity: Up to 3600kg</p>\n<p>Lift height: Up to 235mm</p>\n","thumb":4268,"locale":"vi","taiTrong":3600,"tamTai":null,"chieuCaoNang":235,"dongCo":null,"congSuat":null,"chieuDaiCang":null,"hopSo":null,"lopXe":null,"phanhXe":null,"noiBat":[{"image":2775,"desc":"Người vận hành được trải nghiệm việc nâng hạ vượt trội của dòng PC nhờ vào hệ thống trợ lực lái điện tử và tay cầm X10 của Crown. ","title":"Trợ lực lái điện tử"},{"image":2941,"desc":"Khoang vận hành rộng rãi, có tựa lưng thoải mái giúp người vận hành dễ dàng di chuyển và tăng cường độ ổn định trong quá trình vận chuyển. ","title":"Thiết kế công thái học"},{"image":3099,"desc":"Chiều cao bậc lên xuống hạ thấp, ván sàn có cảm biến dành cho người vận hành và tấm thảm nâng cao sự thoải mái cho người vận hành.","title":"Thiết kế công thái học"}],"noiBatOther":{"title":"Hiệu suất vượt trội trong mọi điều kiện","description":"<ul>\n<li>Xe nâng pallet của Crown dòng PC có thể hoạt động với công suất cao và môi trường khắc nghiệt hàng ngày. Hệ thống kiểm soát lực kéo và bộ truyền động hạng nặng của Crown mang lại hiệu suất mạnh mẽ, tối ưu hóa thời gian hoạt động.</li>\n<li>Hệ thống kiểm soát Access123 mang lại hiệu suất an toàn, tối ưu hóa và các thông số hiệu suất có thể điều chỉnh để đạt được kết quả tối ưu ngay cả ứng dụng khó khăn nhất.</li>\n<li>Động cơ dẫn động AC mạnh mẽ, đem lại khả năng tăng tốc và đảo chiều cắm mượt hơn.</li>\n</ul>\n","image":3242},"anToan":{"title":"Các tính năng của xe ","desc":"Xe nâng Crown được thiết kế với độ tin cậy tuyệt đối, thiết kế chắc chắn, mạnh mẽ và bền bỉ, dòng xe nâng là lựa chọn tối ưu cho hoạt động nhà kho của bạn. ","listFeature":[{"title":"QuickPick Remot","desc":"QuickPick Remot độc quyền của Crown giúp tăng năng suất nhặt hàng bằng cách giúp người vận hành tiết kiệm đến 5s cho mỗi lần nhặt. Giúp giảm bớt mệt mỏi, đảm bảo an toàn cho người và hàng hóa. ","image":3404},{"title":"Bước chọn cấp 2","desc":"Bước chọn cấp hai có thể gấp xuống có thể nhân đôi số lượng chọn mà người vận hành có thể dễ dàng lấy được.","image":3537},{"title":"Lái thủ công và lái bằng tay cầm chữ T","desc":"Tay cầm nghiêng linh hoạt có kèm đòn bẩy phanh kép hoặc lựa chọn tay cầm chữ T giúp cho người vận hành linh hoạt hơn, thuận tiện với đặc điểm và yêu cầu của người vận hành. ","image":3643},{"title":"Bộ điều khiển nâng/ hạ - giá đỡ","desc":"Bộ điều khiển nâng/hạ nằm trên giá đỡ cho phép vận hành thuận tiện các chức năng nâng/hạ ở vị trí mặt bên.","image":3761},{"title":"Phụ kiện hỗ trợ công việc","desc":"Các phụ kiện hỗ trợ công việc của Crown được thiết kế để giúp công việc của người vận hành nhanh hơn, dễ dàng và hiệu quả hơn. ","image":3875},{"title":"Tùy chọn lốp dẫn động và bánh tải","desc":"Các tùy chọn lốp dẫn động và bánh tải đáp ứng hầu như mọi nhu cầu ứng dụng với độ bền cao. ","image":3987},{"title":"Thanh xoắn có bánh xe điều chỉnh nhanh","desc":"Thanh xoắn có bánh xe điều chỉnh nhanh giúp cải thiện độ ổn định của xe nâng khi di chuyển và tải nặng, cao. ","image":4081},{"title":"Thiết kế công thái học","desc":"Thiết kế chắc chắc, công thái học, đảm bảo thuận tiện và ít mệt mỏi cho người vận hành.","image":4199}]},"otherBlock":null,"videos":[],"hinhAnh":{"title":"Hình Ảnh","desc":null,"images":[]}}
+{
+  "name": "PC 4500",
+  "slug": "pc-4500-crown",
+  "slugId": "pc-4500-crown",
+  "typeProduct": "xe-nang-pallet",
+  "description": "<p>Capacity: Up to 3600kg</p>\n<p>Lift height: Up to 235mm</p>\n",
+  "thumb": 4268,
+  "locale": "vi",
+  "taiTrong": 3600,
+  "tamTai": null,
+  "chieuCaoNang": 235,
+  "dongCo": null,
+  "congSuat": null,
+  "chieuDaiCang": null,
+  "hopSo": null,
+  "lopXe": null,
+  "phanhXe": null,
+  "noiBat": [
+    {
+      "image": 2775,
+      "desc": "Người vận hành được trải nghiệm việc nâng hạ vượt trội của dòng PC nhờ vào hệ thống trợ lực lái điện tử và tay cầm X10 của Crown. ",
+      "title": "Trợ lực lái điện tử"
+    },
+    {
+      "image": 2941,
+      "desc": "Khoang vận hành rộng rãi, có tựa lưng thoải mái giúp người vận hành dễ dàng di chuyển và tăng cường độ ổn định trong quá trình vận chuyển. ",
+      "title": "Thiết kế công thái học"
+    },
+    {
+      "image": 3099,
+      "desc": "Chiều cao bậc lên xuống hạ thấp, ván sàn có cảm biến dành cho người vận hành và tấm thảm nâng cao sự thoải mái cho người vận hành.",
+      "title": "Thiết kế công thái học"
+    }
+  ],
+  "noiBatOther": {
+    "title": "Hiệu suất vượt trội trong mọi điều kiện",
+    "description": "<ul>\n<li>Xe nâng pallet của Crown dòng PC có thể hoạt động với công suất cao và môi trường khắc nghiệt hàng ngày. Hệ thống kiểm soát lực kéo và bộ truyền động hạng nặng của Crown mang lại hiệu suất mạnh mẽ, tối ưu hóa thời gian hoạt động.</li>\n<li>Hệ thống kiểm soát Access123 mang lại hiệu suất an toàn, tối ưu hóa và các thông số hiệu suất có thể điều chỉnh để đạt được kết quả tối ưu ngay cả ứng dụng khó khăn nhất.</li>\n<li>Động cơ dẫn động AC mạnh mẽ, đem lại khả năng tăng tốc và đảo chiều cắm mượt hơn.</li>\n</ul>\n",
+    "image": 3242
+  },
+  "anToan": {
+    "title": "Các tính năng của xe ",
+    "desc": "Xe nâng Crown được thiết kế với độ tin cậy tuyệt đối, thiết kế chắc chắn, mạnh mẽ và bền bỉ, dòng xe nâng là lựa chọn tối ưu cho hoạt động nhà kho của bạn. ",
+    "listFeature": [
+      {
+        "title": "QuickPick Remot",
+        "desc": "QuickPick Remot độc quyền của Crown giúp tăng năng suất nhặt hàng bằng cách giúp người vận hành tiết kiệm đến 5s cho mỗi lần nhặt. Giúp giảm bớt mệt mỏi, đảm bảo an toàn cho người và hàng hóa. ",
+        "image": 3404
+      },
+      {
+        "title": "Bước chọn cấp 2",
+        "desc": "Bước chọn cấp hai có thể gấp xuống có thể nhân đôi số lượng chọn mà người vận hành có thể dễ dàng lấy được.",
+        "image": 3537
+      },
+      {
+        "title": "Lái thủ công và lái bằng tay cầm chữ T",
+        "desc": "Tay cầm nghiêng linh hoạt có kèm đòn bẩy phanh kép hoặc lựa chọn tay cầm chữ T giúp cho người vận hành linh hoạt hơn, thuận tiện với đặc điểm và yêu cầu của người vận hành. ",
+        "image": 3643
+      },
+      {
+        "title": "Bộ điều khiển nâng/ hạ - giá đỡ",
+        "desc": "Bộ điều khiển nâng/hạ nằm trên giá đỡ cho phép vận hành thuận tiện các chức năng nâng/hạ ở vị trí mặt bên.",
+        "image": 3761
+      },
+      {
+        "title": "Phụ kiện hỗ trợ công việc",
+        "desc": "Các phụ kiện hỗ trợ công việc của Crown được thiết kế để giúp công việc của người vận hành nhanh hơn, dễ dàng và hiệu quả hơn. ",
+        "image": 3875
+      },
+      {
+        "title": "Tùy chọn lốp dẫn động và bánh tải",
+        "desc": "Các tùy chọn lốp dẫn động và bánh tải đáp ứng hầu như mọi nhu cầu ứng dụng với độ bền cao. ",
+        "image": 3987
+      },
+      {
+        "title": "Thanh xoắn có bánh xe điều chỉnh nhanh",
+        "desc": "Thanh xoắn có bánh xe điều chỉnh nhanh giúp cải thiện độ ổn định của xe nâng khi di chuyển và tải nặng, cao. ",
+        "image": 4081
+      },
+      {
+        "title": "Thiết kế công thái học",
+        "desc": "Thiết kế chắc chắc, công thái học, đảm bảo thuận tiện và ít mệt mỏi cho người vận hành.",
+        "image": 4199
+      }
+    ]
+  },
+  "otherBlock": null,
+  "videos": [],
+  "hinhAnh": {
+    "title": "Hình Ảnh",
+    "desc": null,
+    "images": []
+  }
+}

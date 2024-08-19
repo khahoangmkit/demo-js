@@ -1,1 +1,52 @@
-{"name":"SSL 1932","slug":"ssl-1932","slugId":"ssl-1932","typeProduct":"xe-nang-khac-soosung","description":"<p>Capacity: Up to 227kg</p>\n<p>Lift height: Up to 7800mm</p>\n","thumb":3361,"locale":"vi","taiTrong":227,"tamTai":null,"chieuCaoNang":7800,"dongCo":null,"congSuat":null,"chieuDaiCang":null,"hopSo":null,"lopXe":null,"phanhXe":null,"noiBat":[{"image":2719,"desc":"Hộp điều khiển hệ thống điều khiển thủy lực và điện được thiết kế để bảo trì dễ dàng.\r\n","title":"Hệ thống điều khiển bằng điện"},{"image":2910,"desc":"An toàn và dễ dang điều khiển cho người vận hành. ","title":"Van hạ khẩn cấp"},{"image":3079,"desc":"Hệ thống điều khiển thủy lực và điện. Hộp điều khiển được thiết kế để bảo trì dễ dàng. ","title":"Van thủy lực"}],"noiBatOther":{"title":"Tính năng nổi bật khác","description":"<p>Ngoài các đặc điểm trên, xe nâng thang Soosung model SSL 1932/SSL 2646/SSL 3370 được thiết kế làm việc ở những nơi cao, bao gồm các ưu điểm:</p>\n<ul>\n<li>Mở rộng sản làm việc (Tiêu chuẩn)</li>\n<li>Bán kính quy hẹp</li>\n<li>Ổ cắm AC 110/120V trên bệ</li>\n<li>Pin 24V và bộ sạc tích hợp</li>\n<li>Phanh tay tự động</li>\n<li>Cần điều khiển một tay đươn giản dễ thao tác</li>\n<li>Công tắc dừng khẩn cấp &amp; Van hạ bằng tay</li>\n</ul>\n","image":3210},"anToan":{"title":null,"desc":null,"listFeature":[]},"otherBlock":null,"videos":[],"hinhAnh":{"title":"Hình Ảnh","desc":null,"images":[]}}
+{
+  "name": "SSL 1932",
+  "slug": "ssl-1932",
+  "slugId": "ssl-1932",
+  "typeProduct": "xe-nang-khac-soosung",
+  "description": "<p>Capacity: Up to 227kg</p>\n<p>Lift height: Up to 7800mm</p>\n",
+  "thumb": 3361,
+  "locale": "vi",
+  "taiTrong": 227,
+  "tamTai": null,
+  "chieuCaoNang": 7800,
+  "dongCo": null,
+  "congSuat": null,
+  "chieuDaiCang": null,
+  "hopSo": null,
+  "lopXe": null,
+  "phanhXe": null,
+  "noiBat": [
+    {
+      "image": 2719,
+      "desc": "Hộp điều khiển hệ thống điều khiển thủy lực và điện được thiết kế để bảo trì dễ dàng.\r\n",
+      "title": "Hệ thống điều khiển bằng điện"
+    },
+    {
+      "image": 2910,
+      "desc": "An toàn và dễ dang điều khiển cho người vận hành. ",
+      "title": "Van hạ khẩn cấp"
+    },
+    {
+      "image": 3079,
+      "desc": "Hệ thống điều khiển thủy lực và điện. Hộp điều khiển được thiết kế để bảo trì dễ dàng. ",
+      "title": "Van thủy lực"
+    }
+  ],
+  "noiBatOther": {
+    "title": "Tính năng nổi bật khác",
+    "description": "<p>Ngoài các đặc điểm trên, xe nâng thang Soosung model SSL 1932/SSL 2646/SSL 3370 được thiết kế làm việc ở những nơi cao, bao gồm các ưu điểm:</p>\n<ul>\n<li>Mở rộng sản làm việc (Tiêu chuẩn)</li>\n<li>Bán kính quy hẹp</li>\n<li>Ổ cắm AC 110/120V trên bệ</li>\n<li>Pin 24V và bộ sạc tích hợp</li>\n<li>Phanh tay tự động</li>\n<li>Cần điều khiển một tay đươn giản dễ thao tác</li>\n<li>Công tắc dừng khẩn cấp &amp; Van hạ bằng tay</li>\n</ul>\n",
+    "image": 3210
+  },
+  "anToan": {
+    "title": null,
+    "desc": null,
+    "listFeature": []
+  },
+  "otherBlock": null,
+  "videos": [],
+  "hinhAnh": {
+    "title": "Hình Ảnh",
+    "desc": null,
+    "images": []
+  }
+}

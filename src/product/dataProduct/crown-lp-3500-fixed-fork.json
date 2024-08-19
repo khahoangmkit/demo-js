@@ -1,1 +1,67 @@
-{"name":"LP 3500 (Fixed Forks)","slug":"crown-lp-3500-fixed-fork","slugId":"crown-lp-3500-fixed-fork","typeProduct":"xe-nang-man-up-order-pickers","description":"<p>Capacity: Up to 1000kg</p>\n<p>Lift height: Up to 1790mm</p>\n","thumb":3991,"locale":"vi","taiTrong":1000,"tamTai":600,"chieuCaoNang":1790,"dongCo":null,"congSuat":null,"chieuDaiCang":null,"hopSo":null,"lopXe":null,"phanhXe":"Điện","noiBat":[{"image":2780,"desc":"Xe nâng Order Picker dòng LP của Crown đem lại những lợi thế về hiệu suất thông qua việc đi theo đường chéo cho các hoạt động khác nhau tự do và các tính năng điều chỉnh tốc độ tự động.\r\n\r\nNgoài ra, điều khiển trực quan, pha trộn để nâng, lực kéo và tay lái tận dụng tối đa tốc độ trong khi vẫn đảm bảo điều khiển chính xác.","title":"Điều chỉnh tốc độ tự động"},{"image":2973,"desc":"Thiết kế thuận tiện, bố trí  các bộ phận hợp lý, lý tưởng cho người điều hành kiểm soát mọi thứ. Hệ thống tay lái hạ thấp hơn, hiệu suất tổng thể mượt mà hơn để nâng hạ hàng hóa tốt hơn. ","title":"Khoang điều khiển thuận tiện"},{"image":3118,"desc":"Bảng điều khiển, màn hình trực quan cung cấp chỉ báo cho người lái. Cung cấp thêm các tùy chọn để xe nâng cảu thiện hiệu suất hơn. ","title":"Bảng điều khiển hiện đại"}],"noiBatOther":{"title":"Thiết kế thuận tiện cho công việc bảo dưỡng","description":"<p>Sự sắp xếp các bộ phận điện trong hệ thống xe nâng LP của Crown giúp các kỹ sư thuận tiện tiếp cận, sửa chữa và bảo dưỡng.</p>\n","image":3276},"anToan":{"title":"Các tùy chọn và phụ kiện","desc":null,"listFeature":[{"title":"Bộ điều khiển vận hành chịu tải","desc":"Bộ điều khiển vận hành chịu tải cải thiện tầm nhìn và hiệu suất làm việc của người vận hành khi di chuyển càng và chọn hàng trên hệ thông giá kệ. ","image":3426},{"title":"Dẫn đường ray","desc":"Dẫn đường ray tự động điều khiển tay lái, cho phép chiều rộng lối đi tối thiểu. Dẫn đường ray không bị ảnh hưởng khi cơ sở bị cúp điện.","image":3543}]},"otherBlock":null,"videos":[],"hinhAnh":{"title":"Hình Ảnh","desc":null,"images":[3660,3773,3889]}}
+{
+  "name": "LP 3500 (Fixed Forks)",
+  "slug": "crown-lp-3500-fixed-fork",
+  "slugId": "crown-lp-3500-fixed-fork",
+  "typeProduct": "xe-nang-man-up-order-pickers",
+  "description": "<p>Capacity: Up to 1000kg</p>\n<p>Lift height: Up to 1790mm</p>\n",
+  "thumb": 3991,
+  "locale": "vi",
+  "taiTrong": 1000,
+  "tamTai": 600,
+  "chieuCaoNang": 1790,
+  "dongCo": null,
+  "congSuat": null,
+  "chieuDaiCang": null,
+  "hopSo": null,
+  "lopXe": null,
+  "phanhXe": "Điện",
+  "noiBat": [
+    {
+      "image": 2780,
+      "desc": "Xe nâng Order Picker dòng LP của Crown đem lại những lợi thế về hiệu suất thông qua việc đi theo đường chéo cho các hoạt động khác nhau tự do và các tính năng điều chỉnh tốc độ tự động.\r\n\r\nNgoài ra, điều khiển trực quan, pha trộn để nâng, lực kéo và tay lái tận dụng tối đa tốc độ trong khi vẫn đảm bảo điều khiển chính xác.",
+      "title": "Điều chỉnh tốc độ tự động"
+    },
+    {
+      "image": 2973,
+      "desc": "Thiết kế thuận tiện, bố trí  các bộ phận hợp lý, lý tưởng cho người điều hành kiểm soát mọi thứ. Hệ thống tay lái hạ thấp hơn, hiệu suất tổng thể mượt mà hơn để nâng hạ hàng hóa tốt hơn. ",
+      "title": "Khoang điều khiển thuận tiện"
+    },
+    {
+      "image": 3118,
+      "desc": "Bảng điều khiển, màn hình trực quan cung cấp chỉ báo cho người lái. Cung cấp thêm các tùy chọn để xe nâng cảu thiện hiệu suất hơn. ",
+      "title": "Bảng điều khiển hiện đại"
+    }
+  ],
+  "noiBatOther": {
+    "title": "Thiết kế thuận tiện cho công việc bảo dưỡng",
+    "description": "<p>Sự sắp xếp các bộ phận điện trong hệ thống xe nâng LP của Crown giúp các kỹ sư thuận tiện tiếp cận, sửa chữa và bảo dưỡng.</p>\n",
+    "image": 3276
+  },
+  "anToan": {
+    "title": "Các tùy chọn và phụ kiện",
+    "desc": null,
+    "listFeature": [
+      {
+        "title": "Bộ điều khiển vận hành chịu tải",
+        "desc": "Bộ điều khiển vận hành chịu tải cải thiện tầm nhìn và hiệu suất làm việc của người vận hành khi di chuyển càng và chọn hàng trên hệ thông giá kệ. ",
+        "image": 3426
+      },
+      {
+        "title": "Dẫn đường ray",
+        "desc": "Dẫn đường ray tự động điều khiển tay lái, cho phép chiều rộng lối đi tối thiểu. Dẫn đường ray không bị ảnh hưởng khi cơ sở bị cúp điện.",
+        "image": 3543
+      }
+    ]
+  },
+  "otherBlock": null,
+  "videos": [],
+  "hinhAnh": {
+    "title": "Hình Ảnh",
+    "desc": null,
+    "images": [
+      3660,
+      3773,
+      3889
+    ]
+  }
+}
