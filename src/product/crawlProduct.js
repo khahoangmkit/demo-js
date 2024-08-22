@@ -74,119 +74,15 @@ DataCategory.danhmucs.edges.forEach((category, index) => {
 // console.log("=====length product: ", listProductByChildCategory.length, listProduct[0]);
 
 
-const listProductVersion = [
-  // {
-  //   slug: "15d-7e",
-  //   versionName: "15D-7E / 18D-7E / 20DA-7E",
-  // },
-  // {
-  //   slug: "25df-7",
-  //   versionName: "25DF-7 / 30DF-7 / 33DF-7",
-  // },
-  // {
-  //   slug: "25d-9",
-  //   versionName: "25D-9 / 30D-9 / 35DA-9",
-  // },
-  // {
-  //   slug: "35d-9s",
-  //   versionName: "35D-9S / 40D-9S / 45D-9S / 50D-9SA / 50DN-9VB",
-  // },
-  // {
-  //   slug: "70df-7",
-  //   versionName: "70DF-7",
-  // },
-  // {
-  //   slug: "70d-7e",
-  //   versionName: "70D-7E ACE / 80D-7E ACE",
-  // },
-  // {
-  //   slug: "100d-9-xe-nang-dau-10-tan",
-  //   versionName: "100D-9",
-  // },
-  // {
-  //   slug: "110d-7e",
-  //   versionName: "110D-7E / 160D-7E / 130D-7E",
-  // },
-  // {
-  //   slug: "180d-7e",
-  //   versionName: "180D-7E",
-  // },
-  // {
-  //   slug: "250d-7e",
-  //   versionName: "125D-7E",
-  // },
-  // {
-  //   slug: "300d-9",
-  //   versionName: "300D-9",
-  // },
-  // {
-  //   slug: "15bt-9u",
-  //   versionName: "15BT-9U / 20BT-9U / 18BT-9U",
-  // },
-  // {
-  //   slug: "15bt-9u",
-  //   versionName: "15BT-9U / 20BT-9U / 18BT-9U",
-  // },
-  // {
-  //   slug: "16b-9f",
-  //   versionName: "16B-9F / 20B-9F / 18B-9F",
-  // },
-  // {
-  //   slug: "25b-9u",
-  //   versionName: "25B-9U / 35B-9U",
-  // },
-  // {
-  //   slug: "25b-9f",
-  //   versionName: "25B-9F / 35B-9F",
-  // },
-  // {
-  //   slug: "40b-9",
-  //   versionName: "40B-9 / 50B-9 / 45B-9",
-  // },
-  // {
-  //   slug: "50dn-9vb",
-  //   versionName: "50DN-9VB",
-  // },
-  // {
-  //   slug: "25br-x",
-  //   versionName: "25BR-X / 18BR-X / 15BR-X",
-  // },
-  // {
-  //   slug: "16brj-9",
-  //   versionName: "16BRJ-9 / 20BRJ-9",
-  // },
-  // {
-  //   slug: "50d-9sa",
-  //   versionName: "50D-9SA / 45D-9S / 40D-9S / 35D-9S",
-  // },
-  // {
-  //   slug: "23brp-9",
-  //   versionName: "23BRP-9 / 20BRP-9 / 18BRP-9 / 15BRP-9",
-  // },
-  // {
-  //   slug: "20br-9",
-  //   versionName: "20BR-9 / 25BR-9 / 18BR-9 / 15BR-9",
-  // },
-  // {
-  //   slug: "20bcs-9",
-  //   versionName: "20BCS-9 / 18BCS-9 / 15BCS-9",
-  // },
-  // {
-  //   slug: "13bop-9",
-  //   versionName: "13BOP-9",
-  // },
-  // {
-  //   slug: "50l-9",
-  //   versionName: "50L-9 / 45L-9 / 40L-9 ",
-  // },
-  // {
-  //   slug: "33l-7a",
-  //   versionName: "33L-7A / 30L-7A / 25L-7A ",
-  // },
+const listProductVersion =  [
   {
-    slug: "20l-7m",
-    versionName: "20L-7M / 18L-7M / 15L-7M ",
+    slug: "c2500-c25-000",
+    versionName: "C2500 – C25.000 Model",
   },
+  {
+    slug: "ac-electric-aisle-master",
+    versionName: "AC Electric Aisle Master",
+  }
 ];
 listProductVersion.forEach((product, index) => {
   // return
@@ -337,7 +233,7 @@ listProductVersion.forEach((product, index) => {
 
         const newProduct = {
           versionName: product.versionName,
-          categoryName: 'HYUNDAI HÀN QUỐC',
+          categoryName: 'Combilift',
           noiBat: noiBat,
           noiBatOther: noiBatOther,
           anToan: anToan,
@@ -349,12 +245,12 @@ listProductVersion.forEach((product, index) => {
 
       await createProductVersion(newProduct)
       })
-      .catch(e => {
-        console.log('fail get data ')
-      })
+      // .catch(e => {
+      //   console.log('fail get data ', )
+      // })
 
   } catch (e) {
-    console.log(e)
+    console.log('fail get data ', e.versionName, '==================')
   }
 
 })
