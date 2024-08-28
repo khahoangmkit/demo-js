@@ -76,13 +76,9 @@ DataCategory.danhmucs.edges.forEach((category, index) => {
 
 const listProductVersion =  [
   {
-    slug: "c2500-c25-000",
-    versionName: "C2500 – C25.000 Model",
+    slug: "15d-7e",
+    versionName: "15D-7E / 18D-7E / 20DA-7E",
   },
-  {
-    slug: "ac-electric-aisle-master",
-    versionName: "AC Electric Aisle Master",
-  }
 ];
 listProductVersion.forEach((product, index) => {
   // return
@@ -90,14 +86,14 @@ listProductVersion.forEach((product, index) => {
   // if (index > 0) return;
 
   try {
-    axios(`http://103.173.227.216:3000/_next/data/MiwdB99DHBAHRjnFgBRay/vi/san-pham/${product.slug}.json?slug=${product.slug}`)
+    axios(`https://nlp168.com.vn/_next/data/pacNyJUtasePfXdVkdq3e/vi/san-pham/${product.slug}.json?slug=${product.slug}`)
       .then(async (res) => {
         if (res.data) {
           console.log('Get Product success');
         }
 
         console.log('process create product', product.slug)
-        const productDetail = res.data?.pageProps?.daisanpham?.daisanphamField;
+        const productDetail = res.data.pageProps.daisanpham.daisanphamField;
 
         if (!productDetail) return;
 

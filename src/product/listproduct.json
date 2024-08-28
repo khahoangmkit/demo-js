@@ -1,0 +1,317 @@
+[
+  {
+    "type": "XeNangDau",
+    "name": "15D-7E",
+    "slug": "15d-7e"
+  },
+  {
+    "type": "XeNangDau",
+    "name": "18D-7E",
+    "slug": "18d-7e"
+  },
+  {
+    "type": "XeNangDau",
+    "name": "20DA-7E",
+    "slug": "20da-7e"
+  },
+  {
+    "type": "XeNangDau",
+    "name": "25DF-7",
+    "slug": "25df-7"
+  },
+  {
+    "type": "XeNangDau",
+    "name": "25D-9",
+    "slug": "25d-9"
+  },
+  {
+    "type": "XeNangDau",
+    "name": "30DF-7",
+    "slug": "30df-7"
+  },
+  {
+    "type": "XeNangDau",
+    "name": "30D-9",
+    "slug": "30d-9"
+  },
+  {
+    "type": "XeNangDau",
+    "name": "33DF-7",
+    "slug": "33df-7"
+  },
+  {
+    "type": "XeNangDau",
+    "name": "35DA-9",
+    "slug": "35da-9"
+  },
+  {
+    "type": "XeNangDau",
+    "name": "35D-9S",
+    "slug": "35d-9s"
+  },
+  {
+    "type": "XeNangDau",
+    "name": "40D-9S",
+    "slug": "40d-9s"
+  },
+  {
+    "type": "XeNangDau",
+    "name": "45D-9S",
+    "slug": "45d-9s-2"
+  },
+  {
+    "type": "XeNangDau",
+    "name": "70DF-7",
+    "slug": "70df-7"
+  },
+  {
+    "type": "XeNangDau",
+    "name": "70D-7E ACE",
+    "slug": "70d-7e"
+  },
+  {
+    "type": "XeNangDau",
+    "name": "80D-7E ACE",
+    "slug": "80d-7e"
+  },
+  {
+    "type": "XeNangDau",
+    "name": "100D-9",
+    "slug": "100d-9-xe-nang-dau-10-tan"
+  },
+  {
+    "type": "XeNangDau",
+    "name": "110D-7E",
+    "slug": "110d-7e"
+  },
+  {
+    "type": "XeNangDau",
+    "name": "130D-7E",
+    "slug": "130d-7e"
+  },
+  {
+    "type": "XeNangDau",
+    "name": "160D-7E",
+    "slug": "160d-7e"
+  },
+  {
+    "type": "XeNangDau",
+    "name": "180D-7E",
+    "slug": "180d-7e"
+  },
+  {
+    "type": "XeNangDau",
+    "name": "250D-7E",
+    "slug": "250d-7e"
+  },
+  {
+    "type": "XeNangDau",
+    "name": "300D-9",
+    "slug": "300d-9"
+  },
+  {
+    "type": "XeNangDongCo",
+    "name": "15BT-9U",
+    "slug": "15bt-9u"
+  },
+  {
+    "type": "XeNangDongCo",
+    "name": "16B-9F",
+    "slug": "16b-9f"
+  },
+  {
+    "type": "XeNangDongCo",
+    "name": "18BT-9U",
+    "slug": "18bt-9u"
+  },
+  {
+    "type": "XeNangDongCo",
+    "name": "18B-9F",
+    "slug": "18b-9f"
+  },
+  {
+    "type": "XeNangDongCo",
+    "name": "20BT-9U",
+    "slug": "20bt-9u"
+  },
+  {
+    "type": "XeNangDongCo",
+    "name": "20B-9F",
+    "slug": "20b-9f"
+  },
+  {
+    "type": "XeNangDongCo",
+    "name": "25B-9U",
+    "slug": "25b-9u"
+  },
+  {
+    "type": "XeNangDongCo",
+    "name": "25B-9F",
+    "slug": "25b-9f"
+  },
+  {
+    "type": "XeNangDongCo",
+    "name": "30B-9F",
+    "slug": "30b-9f"
+  },
+  {
+    "type": "XeNangDongCo",
+    "name": "40B-9",
+    "slug": "40b-9"
+  },
+  {
+    "type": "XeNangDongCo",
+    "name": "45B-9",
+    "slug": "45b-9"
+  },
+  {
+    "type": "XeNangDongCo",
+    "name": "50B-9",
+    "slug": "50b-9"
+  },
+  {
+    "type": "XeNangDongCo",
+    "name": "35B-9U",
+    "slug": "35b-9u"
+  },
+  {
+    "type": "XeNangDongCo",
+    "name": "50DN-9VB",
+    "slug": "50dn-9vb"
+  },
+  {
+    "type": "XeNangDongCo",
+    "name": "50D-9SA",
+    "slug": "50d-9sa"
+  },
+  {
+    "type": "XeNangDongCo",
+    "name": "25BR-X",
+    "slug": "25br-x"
+  },
+  {
+    "type": "XeNangDongCo",
+    "name": "25BR-9",
+    "slug": "25br-9"
+  },
+  {
+    "type": "XeNangDongCo",
+    "name": "16BRJ-9",
+    "slug": "16brj-9"
+  },
+  {
+    "type": "XeNangDongCo",
+    "name": "20BRJ-9",
+    "slug": "20brj-9"
+  },
+  {
+    "type": "XeNangDongCo",
+    "name": "23BRP-9",
+    "slug": "23brp-9"
+  },
+  {
+    "type": "XeNangDongCo",
+    "name": "20BRP-9",
+    "slug": "20brp-9"
+  },
+  {
+    "type": "XeNangDongCo",
+    "name": "20BR-9",
+    "slug": "20br-9"
+  },
+  {
+    "type": "XeNangDongCo",
+    "name": "15BRP-9",
+    "slug": "15brp-9"
+  },
+  {
+    "type": "XeNangDongCo",
+    "name": "15BR-X",
+    "slug": "15br-x"
+  },
+  {
+    "type": "XeNangDongCo",
+    "name": "15BR-9",
+    "slug": "15br-9"
+  },
+  {
+    "type": "XeNangDongCo",
+    "name": "18BRP-9",
+    "slug": "18brp-9"
+  },
+  {
+    "type": "XeNangDongCo",
+    "name": "18BR-X",
+    "slug": "18br-x"
+  },
+  {
+    "type": "XeNangDongCo",
+    "name": "18BR-9",
+    "slug": "18br-9"
+  },
+  {
+    "type": "XeNangKhac",
+    "name": "20BCS-9",
+    "slug": "20bcs-9"
+  },
+  {
+    "type": "XeNangKhac",
+    "name": "18BCS-9",
+    "slug": "18bcs-9"
+  },
+  {
+    "type": "XeNangKhac",
+    "name": "15BCS-9",
+    "slug": "15bcs-9"
+  },
+  {
+    "type": "XeNangKhac",
+    "name": "13BOP-9",
+    "slug": "13bop-9"
+  },
+  {
+    "type": "XeNangKhac",
+    "name": "50L-9",
+    "slug": "50l-9"
+  },
+  {
+    "type": "XeNangKhac",
+    "name": "45L-9",
+    "slug": "45l-9"
+  },
+  {
+    "type": "XeNangKhac",
+    "name": "40L-9",
+    "slug": "40l-9"
+  },
+  {
+    "type": "XeNangKhac",
+    "name": "33L-7A",
+    "slug": "33l-7a"
+  },
+  {
+    "type": "XeNangKhac",
+    "name": "30L-7A",
+    "slug": "30l-7a"
+  },
+  {
+    "type": "XeNangKhac",
+    "name": "25L-7A",
+    "slug": "25l-7a"
+  },
+  {
+    "type": "XeNangKhac",
+    "name": "20L-7M",
+    "slug": "20l-7m"
+  },
+  {
+    "type": "XeNangKhac",
+    "name": "18L-7M",
+    "slug": "18l-7m"
+  },
+  {
+    "type": "XeNangKhac",
+    "name": "15L-7M",
+    "slug": "15l-7m"
+  }
+]
