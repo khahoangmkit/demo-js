@@ -1,8 +1,14 @@
 import {DataCategory} from '../data/constant.js';
-import {createNewCategory} from "./common-product.js";
+import {createNewCategory, updateNewCategory, updateTruck} from "./common-product.js";
+import {listTruckHanQuoc} from "./listTrucks.js";
 
+let listTrucks ={};
+listTruckHanQuoc.forEach(item => {
+  listTrucks[item.slug] = item.id
+})
+console.log(listTrucks, '========', listTruckHanQuoc.length)
 
-async function createNewCate(num) {
+function getModelNewCategory(num) {
   const hyundaiTQ = DataCategory.danhmucs.edges[num].node;
 
 
@@ -14,7 +20,7 @@ async function createNewCate(num) {
         return {
           name: item.node.name,
           slug: item.node.slug,
-          trucks: []
+          trucks: item.node.sanphams.edges.map(item => listTrucks[item.node.slug])
         }
       })
     }
@@ -24,10 +30,20 @@ async function createNewCate(num) {
     "name": hyundaiTQ.name,
     "description": hyundaiTQ.description,
     "fieldCategory": hyundaiTQ.fieldCategory.order,
-    "slug": hyundaiTQ.slug,
-    // "locale": "vi",
+    // "slug": hyundaiTQ.slug,
+    "locale": "vi",
     children: children
   }
+  return newCate;
+  console.log(newCate, '======================')
+}
+// getModelNewCategory(3);
+
+await updateNewCategory(5, getModelNewCategory(5))
+
+
+async function createNewCate(num) {
+
   console.log('========================')
 
   try {
@@ -38,5 +54,5 @@ async function createNewCate(num) {
   }
 }
 
-await createNewCate(7);
+// await createNewCate(7);
 

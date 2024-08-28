@@ -1751,7 +1751,7 @@ export const DataCategory = {
           "slug": "crown",
           "description": "Xe nâng với hiệu suất vượt trội, thiết kế hiện đại tập trung vào năng suất người vận hành, độ an toàn và tuổi thọ sản phẩm, cung cấp giá trị lâu dài khiến cho Crown trở thành quyết định kinh doanh tốt nhất của bạn.",
           "fieldCategory": {
-            "order": null
+            "order": 4
           },
           "children": {
             "edges": [
@@ -2666,7 +2666,7 @@ export const DataCategory = {
           "slug": "3-soosung",
           "description": "Xe nâng Soosung là sự lựa chọn thông minh cho các doanh nghiệp vừa và nhỏ đến các nhà xưởng công nghiệp đòi hỏi công suất làm việc lớn.",
           "fieldCategory": {
-            "order": 3
+            "order": 5
           },
           "children": {
             "edges": [
@@ -3510,7 +3510,7 @@ export const DataCategory = {
           "slug": "4-combilift",
           "description": "Với thiết kế khác biệt cùng nhiều tính năng nổi bật, dòng xe Combilift là sự lựa chọn hoàn hảo cho các nhà xưởng có diện tích khác nhau",
           "fieldCategory": {
-            "order": 4
+            "order": 6
           },
           "children": {
             "edges": [
@@ -3588,7 +3588,7 @@ export const DataCategory = {
           "slug": "5-xe-nang-khac",
           "description": null,
           "fieldCategory": {
-            "order": 5
+            "order": 7
           },
           "children": {
             "edges": [
@@ -3822,7 +3822,7 @@ export const DataCategory = {
           "slug": "6-attachments",
           "description": null,
           "fieldCategory": {
-            "order": 6
+            "order": 8
           },
           "children": {
             "edges": [
@@ -4334,7 +4334,7 @@ export const DataCategory = {
           "slug": "7-phu-tung-xe-nang",
           "description": "Nhất Lộ Phát cung cấp phụ tùng xe nâng cho thay thế, sửa chữa xe nâng chính hãng, hợp lý đảm bảo cho cỗ máy nâng hạ hoạt động ổn định, êm ái.",
           "fieldCategory": {
-            "order": 7
+            "order": 9
           },
           "children": {
             "edges": [

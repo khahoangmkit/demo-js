@@ -84,3 +84,56 @@ export async function createNewCategory(data) {
     console.log("crate post failed: ", err)
   }
 }
+
+export async function updateNewCategory(id, data) {
+  try {
+    console.log('try update  createNewCategory')
+
+    const res = await axios.put(`${UrlStrapi}/api/new-categories/${id}`, {data: data}, {
+      headers: {
+        Authorization: `Bearer ${token.TokenFullAccessLocal}`,
+        // 'Content-Type': 'multipart/form-data',
+      }
+    })
+
+    console.log("success updateNewCategory: ", res.data.id);
+  } catch (err) {
+    console.log("crate post failed: ", err)
+  }
+}
+
+export async function createNewTruck(data) {
+  try {
+    console.log('try create Truck')
+
+    const res = await axios.post(`${UrlStrapi}/api/trucks`, {data: data}, {
+      headers: {
+        Authorization: `Bearer ${token.TokenFullAccessLocal}`,
+        // 'Content-Type': 'multipart/form-data',
+      }
+    })
+
+    console.log("success create Truck: ", res.data.id);
+    return res.data;
+  } catch (err) {
+    console.log("crate post failed: ", err)
+  }
+}
+
+export async function updateTruck(id, data) {
+  try {
+    console.log('try create Truck')
+
+    const res = await axios.put(`${UrlStrapi}/api/trucks/${id}`, {data: data}, {
+      headers: {
+        Authorization: `Bearer ${token.TokenFullAccessLocal}`,
+        // 'Content-Type': 'multipart/form-data',
+      }
+    })
+
+    console.log("success create Truck: ", res.data.id);
+    return res.data;
+  } catch (err) {
+    console.log("crate post failed: ", err)
+  }
+}
