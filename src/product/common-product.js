@@ -66,3 +66,21 @@ function demoWriteFile() {
 }
 // demoWriteFile();
 // await createProductVersion()
+
+
+export async function createNewCategory(data) {
+  try {
+    console.log('try create Product')
+
+    const res = await axios.post(`${UrlStrapi}/api/new-categories`, {data: data}, {
+      headers: {
+        Authorization: `Bearer ${token.TokenFullAccessLocal}`,
+        // 'Content-Type': 'multipart/form-data',
+      }
+    })
+
+    console.log("success create Product: ", res.data.id);
+  } catch (err) {
+    console.log("crate post failed: ", err)
+  }
+}

@@ -1,31 +1,42 @@
 import {DataCategory} from '../data/constant.js';
-
-console.log(DataCategory.danhmucs.edges.length);
-
-const hyundaiTQ = DataCategory.danhmucs.edges[7].node;
+import {createNewCategory} from "./common-product.js";
 
 
-const children = hyundaiTQ.children.edges.map(children => {
-  return {
-    name: children.node.name,
-    slug: children.node.slug,
-    groupProducts: children.node.children.edges.map(item => {
-      return {
-        name: item.node.name,
-        slug: item.node.slug,
-        trucks: []
-      }
-    })
+async function createNewCate(num) {
+  const hyundaiTQ = DataCategory.danhmucs.edges[num].node;
+
+
+  const children = hyundaiTQ.children.edges.map(children => {
+    return {
+      name: children.node.name,
+      slug: children.node.slug,
+      groupProducts: children.node.children.edges.map(item => {
+        return {
+          name: item.node.name,
+          slug: item.node.slug,
+          trucks: []
+        }
+      })
+    }
+  })
+
+  const newCate = {
+    "name": hyundaiTQ.name,
+    "description": hyundaiTQ.description,
+    "fieldCategory": hyundaiTQ.fieldCategory.order,
+    "slug": hyundaiTQ.slug,
+    // "locale": "vi",
+    children: children
   }
-})
+  console.log('========================')
 
-console.log('====', children)
-const newCate = {
-  "name": hyundaiTQ.name,
-  "description": hyundaiTQ.description,
-  "fieldCategory": hyundaiTQ.fieldCategory.order,
-  "slug": hyundaiTQ.slug,
-  "locale": "vi",
-  children: children
+  try {
+    await createNewCategory(newCate);
+
+  } catch (e) {
+    console.log('============errocer create ')
+  }
 }
-console.log('========================')
+
+await createNewCate(7);
+
