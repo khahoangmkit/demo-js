@@ -67,7 +67,13 @@ function demoWriteFile() {
 // demoWriteFile();
 // await createProductVersion()
 
+export function writeDataToFile(data, url) {
+  fs.writeFile(url, JSON.stringify(data), (err) => {
 
+    // In case of a error throw err.
+    if (err) throw err;
+  })
+}
 export async function createNewCategory(data) {
   try {
     console.log('try create Product')

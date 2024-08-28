@@ -1,9 +1,9 @@
 import {DataCategory} from '../data/constant.js';
 import {createNewCategory, updateNewCategory, updateTruck} from "./common-product.js";
-import {listTruckHanQuoc} from "./listTrucks.js";
+import {listTruckHanQuoc, listTruckHanQuocLocal} from "./listTrucks.js";
 
 let listTrucks ={};
-listTruckHanQuoc.forEach(item => {
+listTruckHanQuocLocal.forEach(item => {
   listTrucks[item.slug] = item.id
 })
 console.log(listTrucks, '========', listTruckHanQuoc.length)
@@ -39,20 +39,11 @@ function getModelNewCategory(num) {
 }
 // getModelNewCategory(3);
 
-await updateNewCategory(5, getModelNewCategory(5))
+/**
+ * Update new Category
+ * @param num
+ * @returns {Promise<void>}
+ */
+// await updateNewCategory(5, getModelNewCategory(5))
 
-
-async function createNewCate(num) {
-
-  console.log('========================')
-
-  try {
-    await createNewCategory(newCate);
-
-  } catch (e) {
-    console.log('============errocer create ')
-  }
-}
-
-// await createNewCate(7);
 
